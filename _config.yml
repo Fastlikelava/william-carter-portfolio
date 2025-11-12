@@ -1,0 +1,37 @@
+
+title: William E. Carter — UX & Content Strategy
+email: william.e.carter@email.com
+description: >-
+  Human-Centered UX leader transforming complex government services into simple, accessible digital experiences.
+baseurl: ""
+url: ""
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+header_pages:
+  - _pages/about.md
+  - _pages/case-studies.md
+  - _pages/resume.md
+collections:
+  case-studies:
+    output: true
+    permalink: /case-studies/:name/
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: "case-studies"
+    values:
+      layout: page
+      nav_exclude: false
+minima:
+  skin: auto
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/your-link-here" }
+markdown: kramdown
