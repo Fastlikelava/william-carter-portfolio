@@ -1,37 +1,45 @@
-
-title: William E. J. Carter — UX & Content Strategy
-email: wcarter8128@gmail.com
-description: >-
-  Human-Centered UX leader transforming complex government services into simple, accessible digital experiences.
+title: "William E. J. Carter — UX & Content Strategy"
+name: "William E. J. Carter"
+url: ""
 baseurl: ""
-url: "humanfirstux.work"
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
 plugins:
-  - jekyll-feed
+  - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-sitemap
-header_pages:
-  - _pages/about.md
-  - _pages/case-studies.md
-  - _pages/resume.md
-collections:
-  case-studies:
-    output: true
-    permalink: /case-studies/:name/
+  - jekyll-feed
+
+author:
+  name: "William E. J. Carter"
+  avatar: "/assets/images/headshot.jpg"
+  bio: "UX & Content Strategist focused on clarity, accessibility, and measurable results."
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/your-link-here"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/your-github"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:william.e.carter@email.com"
+
+permalink: /:categories/:title/
+
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: pages
     values:
-      layout: post
-  - scope:
-      path: ""
-      type: "case-studies"
-    values:
-      layout: page
-      nav_exclude: false
-minima:
-  skin: auto
-  social_links:
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/your-link-here" }
-markdown: kramdown
+      layout: single
+      author_profile: false
+      classes: wide
+
+collections:
+  work:
+    output: true
+
+locale: "en-US"
+description: "Portfolio of William E. J. Carter — UX & Content Strategy leader transforming complex services into simple, accessible digital experiences."
