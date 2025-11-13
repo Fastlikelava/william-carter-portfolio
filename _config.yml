@@ -1,6 +1,6 @@
 title: "William E. J. Carter — UX & Content Strategy"
 name: "William E. J. Carter"
-url: ""
+url: "www.humanfirstux.work"
 baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
@@ -18,13 +18,13 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/your-link-here"
+      url: "www.linkedin.com/in/william-carter-65518059"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/your-github"
+      url: "https://github.com/Fastlikelava/william-carter-portfolio"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:william.e.carter@email.com"
+      url: "mailto:wcarter8128@gmail.com"
 
 permalink: /:categories/:title/
 
