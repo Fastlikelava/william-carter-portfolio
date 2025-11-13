@@ -1,10 +1,10 @@
 
-title: William E. Carter — UX & Content Strategy
-email: william.e.carter@email.com
+title: William E. J. Carter — UX & Content Strategy
+email: wcarter8128@gmail.com
 description: >-
   Human-Centered UX leader transforming complex government services into simple, accessible digital experiences.
 baseurl: ""
-url: ""
+url: "humanfirstux.work"
 theme: minima
 plugins:
   - jekyll-feed
