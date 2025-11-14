@@ -1,9 +1,9 @@
 title: "William E. J. Carter — UX & Content Strategy"
 name: "William E. J. Carter"
 url: "www.humanfirstux.work"
-baseurl: ""
+baseurl: "/william-carter-portfolio"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "air"
 
 plugins:
   - jekyll-include-cache
