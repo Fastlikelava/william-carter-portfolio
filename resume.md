@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Résumé"
+title: "Resume"
 permalink: /resume/
 ---
 
@@ -11,6 +11,6 @@ permalink: /resume/
 
 If you’d like to see my résumé, I’m happy to share it directly.
 
-**Please reach out through [my Linkedin page](www.linkedin.com/in/william-carter-65518059)**, and I’ll provide the version that aligns with what you’re looking for — whether it’s UX content strategy, research-informed writing, service design, accessibility, or transformation work across large systems.
+**Please reach out through [my Linkedin page](https://www.linkedin.com/in/william-carter-65518059)**, and I’ll provide the version that aligns with what you’re looking for — whether it’s UX content strategy, research-informed writing, service design, accessibility, or transformation work across large systems.
 
 Thanks for taking the time to explore my work. I’m always open to thoughtful conversations. Let’s build something meaningful together.
