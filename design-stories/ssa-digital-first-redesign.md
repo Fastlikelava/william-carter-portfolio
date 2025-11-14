@@ -1,370 +1,255 @@
-# SSA.gov Digital-First Redesign
+---
+layout: page
+title: SSA.gov Digital-First Redesign
+permalink: /design-stories/ssa-digital-first-redesign/
+---
 
-SSA.gov Digital-First Redesign
-
-Enterprise Web • Human-Centered Design • Design System Leadership • 180M+ Visitors Annually
-
+# SSA.gov Digital-First Redesign  
+### Enterprise Web • Human-Centered Design • Design System Leadership • 180M+ Visitors Annually
 
 ---
 
-Design Story Overview
+## Design Story Overview
 
-When the pandemic reshaped how Americans accessed government services, SSA faced a historic challenge:
-a legacy website with 78,000+ pages, low satisfaction, and inconsistent user experience across channels.
+When the pandemic reshaped how Americans accessed government services, SSA faced a historic challenge:  
+a legacy website with **78,000+ pages**, low satisfaction, and inconsistent user experience across channels.
 
-As a Content Strategist & UX Lead, I helped drive SSA’s largest digital transformation effort in more than a decade — the digital-first redesign of SSA.gov, impacting more than 180 million annual visitors.
+As a **Content Strategist & UX Lead**, I helped drive SSA’s largest digital transformation effort in more than a decade — the **digital-first redesign of SSA.gov**, impacting more than **180 million annual visitors**.
 
 My work centered on:
 
-Human-Centered Design (HCD) at enterprise scale
+- **Human-Centered Design (HCD)** at enterprise scale  
+- Building a **Figma design system** aligned with USWDS  
+- Redesigning high-impact workflows (Retirement, Medicare, SSN, SSI)  
+- Simplifying complexity using **plain language**  
+- Iterative design & validation using **research + analytics**  
+- Cross-functional leadership across USDS, GSA, CMS, developers, and policy teams  
 
-Building a Figma design system aligned with USWDS
-
-Redesigning high-impact workflows (Retirement, Medicare, SSN, SSI)
-
-Simplifying complexity using plain language
-
-Iterative design & validation using research + analytics
-
-Cross-functional leadership across USDS, GSA, CMS, developers, and policy teams
-
-
-Outcome:
-+22.3 CSAT improvement, 25% increase in online transactions, and 550% growth in online benefit verification letters — directly reducing office traffic and call-center load.
-
+**Outcome:**  
+**+22.3 CSAT improvement**, **25% increase in online transactions**, and **550% growth** in online benefit verification letters — directly reducing office traffic and call-center load.
 
 ---
 
-1. Problem & Context
+# 1. Problem & Context
 
 SSA.gov was one of the most visited government websites, but:
 
-Content was scattered across tens of thousands of legacy pages
+- Content was scattered across **tens of thousands** of legacy pages  
+- Findability was low and task pathways were unclear  
+- Mobile layouts were dense and inconsistent  
+- Spanish content needed modernization & accessibility upgrades  
+- No unified design system or editorial standard existed  
+- Pandemic-driven demand exposed major gaps in digital service delivery  
 
-Findability was low and task pathways were unclear
+**Baseline pain signals:**  
 
-Mobile layouts were dense and inconsistent
-
-Spanish content needed modernization & accessibility upgrades
-
-No unified design system or editorial standard existed
-
-Pandemic-driven demand exposed major gaps in digital service delivery
-
-
-Baseline pain signals:
-
-CSAT stuck at 47.7
-
-High abandonment on common task flows
-
-Increased call-center volume
-
-Users struggled with long, text-heavy pages
-
+- CSAT stuck at **47.7**  
+- High abandonment on common task flows  
+- Increased call-center volume  
+- Users struggled with long, text-heavy pages  
 
 SSA partnered with USDS to launch a full, digital-first redesign — and I was a core contributor to strategy, content, workflows, and iterative testing.
 
-
 ---
 
-2. My Role & Team
+# 2. My Role & Team
 
-Role: Content Strategist / UX Lead (GS-13)
+### Role: Content Strategist / UX Lead (GS-13)
 
 I partnered with designers, developers, researchers, and product owners to design, test, and launch new digital experiences.
 
-My contributions included:
+**My contributions included:**
 
-Leading content strategy & plain-language adoption
-
-Designing flows & prototypes for top tasks
-
-Building and governing the Figma-based SSA design system
-
-Analyzing Medallia & GA data to identify improvements
-
-Supporting usability testing in English and Spanish
-
-Collaborating with USDS, GSA, CMS, and internal SSA components
-
-Co-founding the Digital Experience Council for cross-agency alignment
-
-Delivering iterative releases in an Agile environment
-
-
+- Leading content strategy & plain-language adoption  
+- Designing flows & prototypes for top tasks  
+- Building and governing the **Figma-based SSA design system**  
+- Analyzing Medallia & GA data to identify improvements  
+- Supporting usability testing in English and Spanish  
+- Collaborating with USDS, GSA, CMS, and internal SSA components  
+- Co-founding the **Digital Experience Council** for cross-agency alignment  
+- Delivering iterative releases in an Agile environment  
 
 ---
 
-3. End-to-End Design Process
-
-
----
-
-3.1 Discovery & Research
-
-Quantitative research
-
-Medallia verbatims & satisfaction scoring
-
-Google Analytics & Digital Analytics Program (DAP) flow analysis
-
-Task abandonment & drop-off analysis
-
-Search query analysis (internal & external)
-
-
-Visual Placeholder: Behavioral Analytics Heatmap
-
-Figure 1: Example behavior flow / drop-off analysis (all data anonymized).
-
-Qualitative research
-
-Customer interviews
-
-Spanish-language usability studies
-
-Accessibility walkthroughs
-
-Field insights from front-line SSA employees
-
-
-Key insights
-
-Dense, complex content blocked comprehension
-
-Top tasks were buried
-
-Mobile users struggled with layout patterns
-
-Spanish content lacked consistency & accessibility
-
-Progressive disclosure dramatically improved comprehension
-
-
+# 3. End-to-End Design Process
 
 ---
 
-3.2 Definition & Alignment
+## 3.1 Discovery & Research
+
+### Quantitative research
+
+- Medallia verbatims & satisfaction scoring  
+- Google Analytics & Digital Analytics Program (DAP) flow analysis  
+- Task abandonment & drop-off analysis  
+- Search query analysis (internal & external)
+
+![Analytics Screenshot Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/analytics-heatmap-placeholder.png)  
+*Figure 1: Example behavior flow / drop-off analysis (all data anonymized).*
+
+### Qualitative research
+
+- Customer interviews  
+- Spanish-language usability studies  
+- Accessibility walkthroughs  
+- Field insights from front-line SSA employees  
+
+### Key insights
+
+- Dense, complex content blocked comprehension  
+- Top tasks were buried  
+- Mobile users struggled with layout patterns  
+- Spanish content lacked consistency & accessibility  
+- Progressive disclosure dramatically improved comprehension  
+
+---
+
+## 3.2 Definition & Alignment
 
 I helped define the redesign strategy using:
 
-Top task prioritization: top 20 pages = ~90% of traffic
+- **Top task prioritization**: top 20 pages = ~90% of traffic  
+- **Success metrics**: CSAT, task completion time, adoption  
+- **Cross-component alignment** via the Digital Experience Council  
+- Editorial + IA standards co-developed across stakeholders  
 
-Success metrics: CSAT, task completion time, adoption
-
-Cross-component alignment via the Digital Experience Council
-
-Editorial + IA standards co-developed across stakeholders
-
-
-Visual Placeholder: IA Mapping for Redesign
-
-Figure 2: High-level IA consolidation map showing simplified top-task pathways.
-
+![IA Diagram Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/ia-mapping-placeholder.png)  
+*Figure 2: High-level IA consolidation map showing simplified top-task pathways.*
 
 ---
 
-3.3 Design & Prototyping (Figma)
+## 3.3 Design & Prototyping (Figma)
 
-I created:
+### I created:
 
-Wireframes
+- Wireframes  
+- Task flows  
+- High-fidelity templates  
+- Content patterns  
+- Eligibility decision trees  
+- Figma design system components  
+- Reusable content structures  
 
-Task flows
+### Design principles:
 
-High-fidelity templates
+- 4th-grade reading level  
+- One decision per screen  
+- Mobile-first layouts  
+- Clear, unambiguous CTAs  
+- USWDS alignment  
+- WCAG AA+ accessibility  
+- Progressive disclosure  
 
-Content patterns
+![Wireframe Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/figma-wireframes-placeholder.png)  
+*Figure 3: Mid-fidelity flow for a common SSA task page.*
 
-Eligibility decision trees
-
-Figma design system components
-
-Reusable content structures
-
-
-Design principles:
-
-4th-grade reading level
-
-One decision per screen
-
-Mobile-first layouts
-
-Clear, unambiguous CTAs
-
-USWDS alignment
-
-WCAG AA+ accessibility
-
-Progressive disclosure
-
-
-Visual Placeholder: Figma Wireframes
-
-Figure 3: Mid-fidelity flow for a common SSA task page.
-
-Visual Placeholder: Figma Design System Components
-
-Figure 4: Sample components recreated from SSA design system (non-sensitive).
-
+![Design System Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/design-system-placeholder.png)  
+*Figure 4: Sample components recreated from SSA design system (non-sensitive).*
 
 ---
 
-3.4 Testing & Iteration
+## 3.4 Testing & Iteration
 
 I collaborated with UX researchers to conduct:
 
-Moderated usability tests
+- Moderated usability tests  
+- Content comprehension tests  
+- Spanish-language reviews  
+- Accessibility checks  
+- A/B comparisons  
 
-Content comprehension tests
+### Measurable improvements
 
-Spanish-language reviews
+- Paragraph length reduced by 40–60%  
+- Improved comprehension across all redesigned pages  
+- Higher click-through to “Start Application” actions  
+- Stronger trust signals in plain-language content  
+- Better scannability via headings & spacing  
 
-Accessibility checks
-
-A/B comparisons
-
-
-Measurable improvements:
-
-Paragraph length reduced by 40–60%
-
-Improved comprehension across all redesigned pages
-
-Higher click-through to “Start Application” actions
-
-Stronger trust signals in plain-language content
-
-Better scannability via headings & spacing
-
-
-Visual Placeholder: Before/After Comparison
-
-Figure 5: Example of revised layout following content comprehension testing.
-
+![Before After Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/before-after-placeholder.png)  
+*Figure 5: Example of revised layout following content comprehension testing.*
 
 ---
 
-3.5 Agile Delivery & Collaboration
+## 3.5 Agile Delivery & Collaboration
 
 Throughout the redesign I participated in:
 
-Sprint planning
-
-Backlog grooming
-
-Daily standups
-
-QA/content freeze cycles
-
-Feature demos & review sessions
-
+- Sprint planning  
+- Backlog grooming  
+- Daily standups  
+- QA/content freeze cycles  
+- Feature demos & review sessions  
 
 This ensured:
 
-Design intent was preserved through development
-
-Complex content stayed accurate
-
-Spanish versions aligned with English UX patterns
-
-Releases remained iterative and user-driven
-
-
+- Design intent was preserved through development  
+- Complex content stayed accurate  
+- Spanish versions aligned with English UX patterns  
+- Releases remained iterative and user-driven  
 
 ---
 
-4. Outcomes & Impact
+# 4. Outcomes & Impact
 
-Customer Satisfaction
+### Customer Satisfaction
 
-47.7 → 70.0 CSAT after redesign
+- **47.7 → 70.0 CSAT** after redesign  
+- **SSI section: 76.5 CSAT**  
+- **Spanish content: 85%+ CSAT**
 
-SSI section: 76.5 CSAT
+### Digital Adoption
 
-Spanish content: 85%+ CSAT
+- **25% increase** in my Social Security online transactions  
+- **550% increase** in online Benefit Verification Letters  
+- Reductions in call center traffic  
+- Improved navigation & findability metrics  
 
+![CSAT Chart Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/csat-trend-placeholder.png)  
+*Figure 6: CSAT improvement trend following iterative releases.*
 
-Digital Adoption
+### Operational Impact
 
-25% increase in my Social Security online transactions
-
-550% increase in online Benefit Verification Letters
-
-Reductions in call center traffic
-
-Improved navigation & findability metrics
-
-
-Operational Impact
-
-Governance for 78,000+ pages across legacy + WCMS
-
-New design system + content standards
-
-First federal multi-language gateway modal
-
-Consistent UX patterns across English/Spanish
-
-
-Visual Placeholder: CSAT Trendline Chart
-
-Figure 6: CSAT improvement trend following iterative releases.
-
+- Governance for **78,000+ pages** across legacy + WCMS  
+- New design system + content standards  
+- First federal **multi-language gateway modal**  
+- Consistent UX patterns across English/Spanish  
 
 ---
 
-5. What I Learned & Relevance to Institutional Services
+# 5. What I Learned & Relevance to Institutional Services
 
 Designing SSA.gov taught me to navigate:
 
-Complex workflows
+- Complex workflows  
+- Rigid regulatory environments  
+- Multi-stakeholder dependencies  
+- Accessibility at scale  
+- Data-driven iteration  
+- Enterprise-level governance  
 
-Rigid regulatory environments
+### Direct relevance to Institutional Services
 
-Multi-stakeholder dependencies
-
-Accessibility at scale
-
-Data-driven iteration
-
-Enterprise-level governance
-
-
-Direct relevance to M&T’s Institutional Services:
-
-Workflow design: Eligibility, claims, and verification flows mirror back-office institutional workflows.
-
-Design systems: I maintained a multi-team design system in Figma — directly aligned with Appian UI consistency needs.
-
-Stakeholder alignment: I coordinated policy, dev, research, and service teams — similar to cross-functional product squads.
-
-Measurable impact: My work resulted in significant improvements across CSAT, adoption, and efficiency.
-
-Agile collaboration: I delivered design increments in sprints alongside analysts, PMs, and developers.
-
-
+- **Workflow design:** Eligibility, claims, and verification flows mirror back-office institutional workflows.  
+- **Design systems:** I maintained a multi-team design system in Figma — directly aligned with Appian UI consistency needs.  
+- **Stakeholder alignment:** I coordinated policy, dev, research, and service teams — similar to cross-functional product squads.  
+- **Measurable impact:** My work resulted in significant improvements across CSAT, adoption, and efficiency.  
+- **Agile collaboration:** I delivered design increments in sprints alongside analysts, PMs, and developers.  
 
 ---
 
-6. Final Summary
+# 6. Final Summary
 
 This redesign transformed SSA.gov into a clearer, more accessible, and more human digital service for millions of people.
 
 My contributions reflect:
 
-End-to-end UX leadership
+- End-to-end UX leadership  
+- Visual/UI design and Figma proficiency  
+- Complex workflow mapping  
+- Design system governance  
+- User research + iterative refinement  
+- Enterprise collaboration  
+- Proven, measurable results  
 
-Visual/UI design and Figma proficiency
-
-Complex workflow mapping
-
-Design system governance
-
-User research + iterative refinement
-
-Enterprise collaboration
-
-Proven, measurable results
+This body of work directly supports my readiness to design Appian workflows, institutional-service tools, and enterprise experiences at M&T Bank.
