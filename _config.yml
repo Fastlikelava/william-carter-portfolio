@@ -3,7 +3,7 @@ name: "William E. J. Carter"
 url: "www.humanfirstux.work"
 baseurl: "/william-carter-portfolio"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "defult"
 
 plugins:
   - jekyll-include-cache
