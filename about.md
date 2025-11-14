@@ -48,6 +48,6 @@ My approach is shaped by everything that came before it: military service, techn
 
 I’m focused on work that makes essential information clearer, services easier to use, and digital spaces feel a little more humane. I love helping teams slow down, ask better questions, and build with intention.
 
-If that’s the kind of work you’re doing — or want to be doing — I’d love to connect.
+If that’s the kind of work you’re doing (or want to be doing), I’d love to connect.
 
 👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/william-carter-65518059)
