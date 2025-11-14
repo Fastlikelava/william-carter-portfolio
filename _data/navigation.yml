@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /humanfirstux.work
+  - title: "About"
+    url: /about/
+  - title: "Case Studies"
+    url: /case-studies/
+  - title: "Resume"
+    url: /resume/
+  - title: "Contact"
+    url: /contact/
