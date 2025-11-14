@@ -6,6 +6,9 @@ permalink: /design-stories/ssa-digital-first-redesign/
 
 # SSA.gov Digital-First Redesign  
 ### Enterprise Web • Human-Centered Design • Design System Leadership • 180M+ Visitors Annually
+[← Back to Design Stories]({{ site.baseurl }}/design-stories/)
+
+# SSA.gov Digital-First Redesign
 
 ---
 
@@ -253,3 +256,7 @@ My contributions reflect:
 - Proven, measurable results  
 
 This body of work directly supports my readiness to design Appian workflows, institutional-service tools, and enterprise experiences.
+
+---
+
+[← Back to Design Stories]({{ site.baseurl }}/design-stories/)
