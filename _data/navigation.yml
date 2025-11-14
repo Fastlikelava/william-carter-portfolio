@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: <https://humanfirstux.work>
+    url: "https://humanfirstux.work"
   - title: "About"
     url: /about/
   - title: "Case Studies"
