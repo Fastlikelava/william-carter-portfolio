@@ -3,8 +3,8 @@ main:
     url: "https://humanfirstux.work"
   - title: "About"
     url: /about/
-  - title: "Case Studies"
-    url: /case-studies/
+  - title: "Design Stories"
+    url: /design-stories/
   - title: "Resume"
     url: /resume/
   - title: "Contact"
