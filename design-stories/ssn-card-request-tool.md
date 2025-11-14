@@ -1,10 +1,25 @@
-# SSN Card Request Tool
+---
+layout: page
+title: SSN Card Request Tool
+permalink: /design-stories/ssn-card-request-tool/
+---
 
-> End-to-end design of a complex eligibility and workflow tool that helps customers understand how to request a Social Security card based on their specific situation (name change, living abroad, non-citizens, unhoused, etc.).
+# SSN Card Request Tool  
+### Workflow Design • Complex Eligibility Logic • Content + UI
 
-More coming soon…
+> Full Design Story coming soon.
 
-- High-level goals
-- User flow diagrams
-- Figma screens
-- Metrics
+This tool helps people understand **how to get or replace a Social Security card** based on their specific situation:
+
+- Newly married or name change  
+- Living abroad  
+- Non-U.S. citizens entitled to SSN cards  
+- Unhoused individuals  
+- Other special cases  
+
+The work involved:
+
+- Mapping complex policy rules into clear, answerable questions  
+- Designing branching flows that lead to tailored instructions  
+- Collaborating with developers to ensure the logic matched system constraints  
+- Measuring impact through increased self-service and reductions in in-office and phone requests  
