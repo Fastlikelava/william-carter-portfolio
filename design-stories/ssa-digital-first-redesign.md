@@ -252,4 +252,4 @@ My contributions reflect:
 - Enterprise collaboration  
 - Proven, measurable results  
 
-This body of work directly supports my readiness to design Appian workflows, institutional-service tools, and enterprise experiences at M&T Bank.
+This body of work directly supports my readiness to design Appian workflows, institutional-service tools, and enterprise experiences.
