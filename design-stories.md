@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Case Studies"
-permalinkg: /case-studies/
+title: "Design Stories"
+permalinkg: /design-stories/
 ---
 SSA.gov Digital-First Redisng (Enterprise Web/ Design Sytem /  HCD)
 SSN Card Request Tool (Workflow/Comples Rules/UI Flows)
