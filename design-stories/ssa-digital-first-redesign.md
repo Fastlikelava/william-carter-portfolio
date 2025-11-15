@@ -87,7 +87,7 @@ I partnered with designers, developers, researchers, and product owners to desig
 - Task abandonment & drop-off analysis  
 - Search query analysis (internal & external)
 
-![Quantitative Research Example]({{ site.baseurl }}/assets/images/ssa-redesign/quant_research.png)
+![Quantitative Research Example](/assets/images/ssa-redesign/quant_research.png){: .diagram }
 *Figure: Examples of quantitative data analysis used during discovery — CSAT trends, task funnel drop-off, and search term frequency (illustrative only; no SSA data).*
 
 ### Qualitative research
@@ -143,7 +143,7 @@ I helped define the redesign strategy using:
 - WCAG AA+ accessibility  
 - Progressive disclosure  
 
-![Replacement Card Wireframe]({{ site.baseurl }}/assets/images/ssa-redesign/enumeration_wireframe.png)  
+![Replacement Card Wireframe](/assets/images/ssa-redesign/enumeration_wireframe.png){: .diagram }  
 *Figure 3: Mid-fidelity flow for replacing a Social Security card.*
 
 
@@ -167,7 +167,7 @@ I collaborated with UX researchers to conduct:
 - Stronger trust signals in plain-language content  
 - Better scannability via headings & spacing  
 
-![SSI Before After Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/before-after-SSI.png)  
+![SSI Before After Placeholder](/assets/images/ssa-redesign/before-after-SSI.png){: .diagram }  
 *Figure 5: Revised layout following content comprehension testing.*
 
 ---
@@ -180,14 +180,16 @@ Throughout the redesign I participated in:
 - Backlog grooming  
 - Daily standups  
 - QA/content freeze cycles  
-- Feature demos & review sessions  
+- Feature demos & review sessions
+- Team retrospectives 
 
 This ensured:
 
 - Design intent was preserved through development  
 - Complex content stayed accurate  
 - Spanish versions aligned with English UX patterns  
-- Releases remained iterative and user-driven  
+- Releases remained iterative and user-driven
+- The needs of team members were addressed
 
 ---
 
@@ -206,14 +208,10 @@ This ensured:
 - Reductions in call center traffic  
 - Improved navigation & findability metrics  
 
-![CSAT Chart Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/csat-trend-placeholder.png)  
-*Figure 6: CSAT improvement trend following iterative releases.*
-
 ### Operational Impact
 
 - Governance for **78,000+ pages** across legacy + WCMS  
-- New design system + content standards  
-- First federal **multi-language gateway modal**  
+- New design system + content standards   
 - Consistent UX patterns across English/Spanish  
 
 ---
