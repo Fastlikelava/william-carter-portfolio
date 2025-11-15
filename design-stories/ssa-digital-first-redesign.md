@@ -57,7 +57,7 @@ SSA partnered with USDS to launch a full, digital-first redesign — and I was a
 
 # 2. My Role & Team
 
-### Role: Content Strategist / UX Lead (GS-13)
+### Role: Content Strategist / UX Lead
 
 I partnered with designers, developers, researchers, and product owners to design, test, and launch new digital experiences.
 
@@ -87,8 +87,8 @@ I partnered with designers, developers, researchers, and product owners to desig
 - Task abandonment & drop-off analysis  
 - Search query analysis (internal & external)
 
-![Analytics Screenshot Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/analytics-heatmap-placeholder.png)  
-*Figure 1: Example behavior flow / drop-off analysis (all data anonymized).*
+![Quantitative Research Example]({{ site.baseurl }}/assets/images/ssa-redesign/quant_research.png)
+*Figure: Examples of quantitative data analysis used during discovery — CSAT trends, task funnel drop-off, and search term frequency (illustrative only; no SSA data).*
 
 ### Qualitative research
 
@@ -100,9 +100,9 @@ I partnered with designers, developers, researchers, and product owners to desig
 ### Key insights
 
 - Dense, complex content blocked comprehension  
-- Top tasks were buried  
+- Top tasks were buried under the fold  
 - Mobile users struggled with layout patterns  
-- Spanish content lacked consistency & accessibility  
+- Spanish content (when avalible) lacked consistency & accessibility  
 - Progressive disclosure dramatically improved comprehension  
 
 ---
@@ -116,8 +116,8 @@ I helped define the redesign strategy using:
 - **Cross-component alignment** via the Digital Experience Council  
 - Editorial + IA standards co-developed across stakeholders  
 
-![IA Diagram Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/ia-mapping-placeholder.png)  
-*Figure 2: High-level IA consolidation map showing simplified top-task pathways.*
+![High-level IA Consolidation Map – Four Top Tasks]({{ site.baseurl }}/assets/images/ssa-redesign/ia_consolidation_map_4tasks.png)
+*Figure: High-level IA consolidation map showing simplified top-task pathways including Retirement, Medicare, Disability, and SSN Card (illustrative only).*
 
 ---
 
@@ -131,7 +131,7 @@ I helped define the redesign strategy using:
 - Content patterns  
 - Eligibility decision trees  
 - Figma design system components  
-- Reusable content structures  
+- Content databases  
 
 ### Design principles:
 
@@ -143,11 +143,9 @@ I helped define the redesign strategy using:
 - WCAG AA+ accessibility  
 - Progressive disclosure  
 
-![Wireframe Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/figma-wireframes-placeholder.png)  
-*Figure 3: Mid-fidelity flow for a common SSA task page.*
+![Replacement Card Wireframe]({{ site.baseurl }}/assets/images/ssa-redesign/enumeration_wireframe.png)  
+*Figure 3: Mid-fidelity flow for replacing a Social Security card.*
 
-![Design System Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/design-system-placeholder.png)  
-*Figure 4: Sample components recreated from SSA design system (non-sensitive).*
 
 ---
 
@@ -169,8 +167,8 @@ I collaborated with UX researchers to conduct:
 - Stronger trust signals in plain-language content  
 - Better scannability via headings & spacing  
 
-![Before After Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/before-after-placeholder.png)  
-*Figure 5: Example of revised layout following content comprehension testing.*
+![SSI Before After Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/before-after-SSI.png)  
+*Figure 5: Revised layout following content comprehension testing.*
 
 ---
 
