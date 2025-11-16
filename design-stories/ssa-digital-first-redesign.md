@@ -114,9 +114,11 @@ I helped define the redesign strategy using:
 - **Top task prioritization**: top 20 pages = ~90% of traffic  
 - **Success metrics**: CSAT, task completion time, adoption  
 - **Cross-component alignment** via the Digital Experience Council  
-- Editorial + IA standards co-developed across stakeholders  
+- Editorial + IA standards co-developed across stakeholders
 
-![High-level IA Consolidation Map – Four Top Tasks](/assets/images/ssa-redesign/ia_consolidation_map_4tasks.png){: .diagram }
+  <img src="/assets/images/ssa-redesign/ia_map.png"
+     alt="High-level IA consolidation map"
+     class="float-right" />
 *Figure: High-level IA consolidation map showing simplified top-task pathways including Retirement, Medicare, Disability, and SSN Card (illustrative only).*
 
 ---
