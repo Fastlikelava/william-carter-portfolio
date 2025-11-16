@@ -22,9 +22,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/Fastlikelava/william-carter-portfolio"
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:wcarter8128@gmail.com"
 
 permalink: /:categories/:title/
 
