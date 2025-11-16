@@ -1,4 +1,3 @@
-# Design Stories
 
 I use Design Stories to show how I work end-to-end: from discovery and research through prototyping, testing, iteration, and measurable impact.
 
