@@ -116,9 +116,7 @@ I helped define the redesign strategy using:
 - **Cross-component alignment** via the Digital Experience Council  
 - Editorial + IA standards co-developed across stakeholders
 
-  <img src="/assets/images/ssa-redesign/ia_map.png"
-     alt="High-level IA consolidation map"
-     class="float-right" />
+![High-level IA consolidation map](/assets/images/ssa-redesign/ia_map.png){: .diagram }
 *Figure: High-level IA consolidation map showing simplified top-task pathways including Retirement, Medicare, Disability, and SSN Card (illustrative only).*
 
 ---
