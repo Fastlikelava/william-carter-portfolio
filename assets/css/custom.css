@@ -2,12 +2,12 @@
 .page__content img {
   width: 40%;
   height: auto;
-  max-width: 500px;
+  max-width: 100px;
   margin-left: auto;
   margin-right: auto;
 }
 
 /* More compact default for diagrams */
 img.diagram {
-  max-width: 600px;
+  max-width: 200px;
 }
