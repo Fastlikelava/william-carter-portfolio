@@ -2,6 +2,7 @@
 layout: page
 title: SSN Card Request Tool
 permalink: /design-stories/ssn-card-request-tool/
+classes: large-text
 ---
 
 [← Back to Design Stories]({{ site.baseurl }}/design-stories/)
