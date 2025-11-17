@@ -212,8 +212,8 @@ We used:
 - Ensured parity across English and Spanish  
 
 Testing confirmed major increases in clarity and task confidence.
-- ![Pause Point Example](/assets/images/ Example of user specific documentation requirements.png){: .diagram }
-- * Figure: Examples of user-centric documentation requests that facilitate task completion on the first contact.*
+![Pause Point Example](/assets/images/ Example of user specific documentation requirements.png){: .diagram }
+* Figure: Examples of user-centric documentation requests that facilitate task completion on the first contact.*
 
 ---
 
