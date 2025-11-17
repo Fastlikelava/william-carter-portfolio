@@ -258,7 +258,7 @@ Users reported:
 - “feeling less stressed”  
 - “understanding what applies to me”
 
-![Pause Point Example](/assets/images/ Example of user specific documentation requirements.png){: .diagram }
+![Pause Point Example](/assets/images/Example_of_user_specific_documentation_requirements.png){: .diagram }
 
 *Figure: Examples of user-centric documentation requests that facilitate task completion on the first contact.*
 
