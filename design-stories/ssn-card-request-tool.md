@@ -212,6 +212,8 @@ We used:
 - Ensured parity across English and Spanish  
 
 Testing confirmed major increases in clarity and task confidence.
+- ![Pause Point Example](/assets/images/ Example of user specific documentation requirements.png){: .diagram }
+- * Figure: Examples of user-centric documentation requests that facilitate task completion on the first contact.*
 
 ---
 
@@ -269,7 +271,7 @@ This project strengthened my ability to design:
 - **back-office-optimized processes**  
 - **compliance-aligned UI patterns**  
 
-### Direct relevance to M&T’s Institutional Services:
+### Direct relevance to Institutional Services:
 
 - Appian-style rule-driven workflows  
 - Internal operational process mapping  
