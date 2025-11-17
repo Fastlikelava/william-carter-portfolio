@@ -87,8 +87,6 @@ I partnered with designers, developers, researchers, and product owners to desig
 - Task abandonment & drop-off analysis  
 - Search query analysis (internal & external)
 
-![Quantitative Research Example](/assets/images/ssa-redesign/quant_research.png){: .diagram }
-*Figure: Examples of quantitative data analysis used during discovery — CSAT trends, task funnel drop-off, and search term frequency (illustrative only; no SSA data).*
 
 ### Qualitative research
 
@@ -116,8 +114,6 @@ I helped define the redesign strategy using:
 - **Cross-component alignment** via the Digital Experience Council  
 - Editorial + IA standards co-developed across stakeholders
 
-![High-level IA consolidation map](/assets/images/ssa-redesign/ia_map.png){: .diagram }
-*Figure: High-level IA consolidation map showing simplified top-task pathways including Retirement, Medicare, Disability, and SSN Card (illustrative only).*
 
 ---
 
@@ -143,8 +139,6 @@ I helped define the redesign strategy using:
 - WCAG AA+ accessibility  
 - Progressive disclosure  
 
-![Replacement Card Wireframe](/assets/images/ssa-redesign/enumeration_wireframe.png){: .diagram }  
-*Figure 3: Mid-fidelity flow for replacing a Social Security card.*
 
 
 ---
@@ -167,8 +161,7 @@ I collaborated with UX researchers to conduct:
 - Stronger trust signals in plain-language content  
 - Better scannability via headings & spacing  
 
-![SSI Before After Placeholder](/assets/images/ssa-redesign/before-after-SSI.png){: .diagram }  
-*Figure 5: Revised layout following content comprehension testing.*
+
 
 ---
 
