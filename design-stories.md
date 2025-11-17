@@ -2,6 +2,7 @@
 layout: single
 title: "Design Stories"
 permalinkg: /design-stories/
+classes: large-text
 ---
 SSA.gov Digital-First Redisng (Enterprise Web/ Design Sytem /  HCD)
 SSN Card Request Tool (Workflow/Comples Rules/UI Flows)
