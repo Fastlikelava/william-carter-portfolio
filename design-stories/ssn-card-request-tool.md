@@ -207,7 +207,7 @@ We used:
 - Simplified question wording  
 - Reordered steps based on user mental models  
 - Added clearer document descriptions  
-- Strengthened final “Next Steps” instructions  
+- Strengthened final next steps “Pause Point” instructions  
 - Improved readability and scannability  
 - Ensured parity across English and Spanish  
 
