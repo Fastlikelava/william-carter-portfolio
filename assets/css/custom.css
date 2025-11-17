@@ -1,13 +1,13 @@
 /* Default image behavior */
 .page__content img {
-  width: 40%;
+  width: 100%;
   height: auto;
-  max-width: 100px;
+  max-width: 400px;
   margin-left: auto;
   margin-right: auto;
 }
 
 /* More compact default for diagrams */
 img.diagram {
-  max-width: 200px;
+  max-width: 500px;
 }
