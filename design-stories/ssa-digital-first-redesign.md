@@ -2,6 +2,7 @@
 layout: page
 title: SSA.gov Digital-First Redesign
 permalink: /design-stories/ssa-digital-first-redesign/
+classes: large-text
 ---
 
 # SSA.gov Digital-First Redesign  
