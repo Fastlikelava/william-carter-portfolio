@@ -142,7 +142,6 @@ We identified:
 - Living-abroad rules were hidden or inconsistent  
 - Users felt overwhelmed by dense information  
 
-*Suggested visual:* A simplified behavior flow or funnel chart representing user confusion pathways.
 
 ---
 
@@ -166,7 +165,6 @@ We converted complex program logic into **user-centered logic**:
 
 This produced a streamlined decision-tree architecture.
 
-*Suggested visual:* A generic decision-tree diagram showing branching pathways.
 
 ---
 
@@ -190,7 +188,6 @@ This produced a streamlined decision-tree architecture.
 - **Error prevention through clarity**  
 - **WCAG AA+ accessibility**  
 
-*Suggested visual:* A mobile-screen wireframe of a question step.
 
 ---
 
