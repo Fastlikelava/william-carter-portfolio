@@ -146,7 +146,8 @@ We identified:
 - Name-change workflows were deeply confusing  
 - Non-citizen pathways were unclear  
 - Living-abroad rules were hidden or inconsistent  
-- Users felt overwhelmed by dense information  
+- Users felt overwhelmed by dense information
+- Child-focused workflows needed to balance clear guidance for minors with strict compliance to federal (COPPA/CIPA) regulations. 
 
 
 ---
