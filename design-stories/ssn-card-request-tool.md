@@ -41,7 +41,7 @@ I served as a **UX strategist, content designer, and flow architect**, shaping t
 ---
 
 # 1. The Call to Solve a Problem
-     **Clarifying User Needs, Pain Points, and the Core Challenge**
+       **Clarifying User Needs, Pain Points, and the Core Challenge**
 
 The original experience had several challenges, users often dealt with:
 
@@ -84,7 +84,7 @@ Most users approached this task with real urgency. They needed a Social Security
 
 - start a new job  
 - enroll a child in school  
-- complete a housing applications  
+- complete a housing application  
 - receive benefits from a third party
 
 That urgency elevated stress, and that stress made an already confusing experience feel even harder to navigate, increasing errors, repeat visits, and frustration. In turn, stressed and confused users put additional pressure on already overworked staff, creating a vicious cycle where unclear guidance amplified stress on both sides of the counter. 
@@ -101,7 +101,8 @@ We needed an experience that was:
 
 ---
 
-# 2. My Role & Team
+# 2. Gathering the Right Team
+     **My Role, Collaboration Approach, and Cross-Functional Partnerships** 
 
 ### **Role: UX Strategist / Content Designer**
 
@@ -128,9 +129,10 @@ I led or co-led:
 
 ---
 
-# 3. End-to-End Design Process
+# 3. Navigating the Design Journey
+     **End-to-End UX Process: Discovery, IA, Content Strategy, Prototyping, and Testing**
 
-## 3.1 Discovery & Research
+## a. Discovery & Research
 
 We identified:
 
@@ -159,7 +161,7 @@ We identified:
 
 ---
 
-## 3.2 Defining Logic & Requirements
+## b. Defining Logic & Requirements
 
 The tool required mapping **every possible user scenario**, including:
 
@@ -183,7 +185,7 @@ This produced a streamlined decision-tree architecture.
 
 ---
 
-## 3.3 Design & Prototyping (Figma)
+## c. Design & Prototyping (Figma)
 
 ### Deliverables I created:
 
@@ -206,7 +208,7 @@ This produced a streamlined decision-tree architecture.
 
 ---
 
-## 3.4 Testing & Iteration
+## d. Testing & Iteration
 
 We used:
 
@@ -231,7 +233,7 @@ Testing confirmed major increases in clarity and task confidence.
 
 ---
 
-## 3.5 Delivery & Collaboration
+## e. Delivery & Collaboration
 
 I collaborated with:
 
@@ -250,7 +252,8 @@ We aligned on:
 
 ---
 
-# 4. Outcomes & Impact
+# 4. Reaching the Breakthrough Moments
+     **Key Insights, Usability Findings, Decisions, and Iterations**
 
 ### Clarity & comprehension
 
@@ -279,7 +282,8 @@ Users reported:
 
 ---
 
-# 5. Relevance to Institutional Services
+# 5. Ripples Across the Organization
+     **Outcomes, Impact Metrics, and Alignment to Agency Priorities**
 
 This project strengthened my ability to design:
 
@@ -301,7 +305,8 @@ This project is a perfect example of designing experiences that work for users *
 
 ---
 
-# 6. Final Summary
+# 6. Reflections and Future Direction
+     **Summary, Lessons Learned, and Opportunities for Continued Improvement**
 
 The SSN Card Request Tool demonstrates how user-centered design can:
 
