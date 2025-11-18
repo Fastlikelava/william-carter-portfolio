@@ -23,7 +23,8 @@ Users fall into dozens of categories:
 - Newborns applying for their first SSN  
 - People living abroad  
 - People experiencing homelessness  
-- Users without access to original documents  
+- Users without access to original documents
+- Those that can file online, must appear in person, or are able to do both
 
 Before this work, SSA’s guidance was difficult to navigate:
 
@@ -33,17 +34,18 @@ Before this work, SSA’s guidance was difficult to navigate:
 - Hard to use on mobile  
 - Confusing for users with limited documentation knowledge  
 
-The SSN Card Request Tool was designed to **simplify the eligibility journey**, reduce confusion, and guide users step-by-step to the correct instructions for *their* situation.
+The SSN Card Request Tool (affectionately called "the enumeration screener" by internal staff) was designed to **simplify the user's journey**, reduce confusion, and guide users step-by-step to the correct instructions for *their* situation.
 
 I served as a **UX strategist, content designer, and flow architect**, shaping the logic, UI structure, and plain-language experience behind the tool.
 
 ---
 
-# 1. Problem & Context
+# 1. The Call to Solve a Problem
+     **Clarifying User Needs, Pain Points, and the Core Challenge**
 
-The original experience had several challenges:
+The original experience had several challenges, users often dealt with:
 
-### 1. Highly complex policy
+### a. Highly complex policy
 Eligibility rules vary depending on:
 
 - citizenship  
@@ -53,18 +55,21 @@ Eligibility rules vary depending on:
 - presence of original or certified documents  
 - location (inside the U.S. vs abroad)  
 
-### 2. Scattered information without a call to action
-Instructions were spread across:
+### b. Fragmented guidance creating confusion and stallled applications
+SSA's documentation rules were scattered across inconsistent sources, including: 
 
-- multiple help pages  
-- outdated FAQs  
-- policy manuals (POMS)  
-- office-specific exceptions  
+- help pages created at different times with uneven updates, leaving users unsure which instructions to trust  
+- outdated FAQs with contradicting rules  
+- field-office exceptions that never surfaced online
+- “sanitized” internal policy manuals (POMS) not designed for public use, but shared on the public site in ways that often confused users
 
-![Documentation instructions](/assets/images/ss5/what-docs-instructions.png){: .diagram }
-*Figure: "Before"—original user experience identifying required documents for a Social Security card request (mobile view).*
+  This “before” experience (see Figure 1a) tried to answer everyone’s question of **“What documents do I need?”**—but failed to answer what **I**, the individual user, needed based on **my** situation. With generic, conflicting instructions and no clear call to action, users were left uncertain and overwhelmed, a major driver of application errors and repeat office visits.
 
-### 3. High operational burden
+![Documentation instructions](/assets/images/ss5/what-docs-instructions.png){: .diagram } 
+
+*Figure 1a.: Before, users lacked a single, authoritative way to verify the documents they specifically needed.*
+
+### c. Broken user journeys that created avoidable strain on staff
 
 Users frequently arrived at field offices:
 
@@ -73,14 +78,16 @@ Users frequently arrived at field offices:
 - confused about eligibility  
 - misdirected for tasks they *could* do online  
 
-### 4. High-stress, high-stakes task
+### d. High-pressure moments that triggered a stress cycle for users and staff
 
-Users urgently needed clarity for:
+Most users approached this task with real urgency. They needed a Social Security card so they could:
 
-- employment  
-- school enrollment  
-- housing applications  
-- benefit enrollment
+- start a new job  
+- enroll a child in school  
+- complete a housing applications  
+- receive benefits from a third party
+
+That urgency elevated stress, and that stress made an already confusing experience feel even harder to navigate, increasing errors, repeat visits, and frustration. In turn, stressed and confused users put additional pressure on already overworked staff, creating a vicious cycle where unclear guidance amplified stress on both sides of the counter. 
 
 
 We needed an experience that was:
