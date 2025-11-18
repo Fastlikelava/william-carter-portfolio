@@ -77,7 +77,11 @@ Users urgently needed clarity for:
 - employment  
 - school enrollment  
 - housing applications  
-- benefit enrollment  
+- benefit enrollment
+
+![Documentation instructions](/assets/images/ss5/what-docs-instructions.png){: .diagram }
+
+*Figure: "Before"—original user experience identifying required documents for a Social Security card request (mobile view).*
 
 We needed an experience that was:
 
