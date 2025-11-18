@@ -41,7 +41,7 @@ I served as a **UX strategist, content designer, and flow architect**, shaping t
 ---
 
 # 1. The Call to Solve a Problem
-       **Clarifying User Needs, Pain Points, and the Core Challenge**
+      # Clarifying User Needs, Pain Points, and the Core Challenge
 
 The original experience had several challenges, users often dealt with:
 
