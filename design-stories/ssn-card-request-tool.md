@@ -53,13 +53,16 @@ Eligibility rules vary depending on:
 - presence of original or certified documents  
 - location (inside the U.S. vs abroad)  
 
-### 2. Scattered information
+### 2. Scattered information without a call to action
 Instructions were spread across:
 
 - multiple help pages  
 - outdated FAQs  
 - policy manuals (POMS)  
 - office-specific exceptions  
+
+![Documentation instructions](/assets/images/ss5/what-docs-instructions.png){: .diagram }
+*Figure: "Before"—original user experience identifying required documents for a Social Security card request (mobile view).*
 
 ### 3. High operational burden
 
@@ -79,9 +82,6 @@ Users urgently needed clarity for:
 - housing applications  
 - benefit enrollment
 
-![Documentation instructions](/assets/images/ss5/what-docs-instructions.png){: .diagram }
-
-*Figure: "Before"—original user experience identifying required documents for a Social Security card request (mobile view).*
 
 We needed an experience that was:
 
@@ -101,7 +101,7 @@ We needed an experience that was:
 I led or co-led:
 
 - Mapping the **full decision logic**  
-- Translating policy → **user-friendly questions**  
+- Translating policy into **user-friendly questions**  
 - Designing wireframes and multi-step flows  
 - Creating mobile-first UI patterns  
 - Writing eligibility and result content  
@@ -157,7 +157,8 @@ The tool required mapping **every possible user scenario**, including:
 - citizenship status  
 - location  
 - documentation availability  
-- special exceptions  
+- special exceptions
+- state laws concerning electronic disclosure   
 
 We converted complex program logic into **user-centered logic**:
 
