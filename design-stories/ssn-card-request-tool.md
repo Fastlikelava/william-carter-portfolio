@@ -106,7 +106,9 @@ I led or co-led:
 - Creating mobile-first UI patterns  
 - Writing eligibility and result content  
 - Ensuring design system + accessibility alignment  
-- Collaborating closely with policy SMEs and operations teams  
+- Collaborating closely with policy SMEs and operations teams
+![High level Social Security Card application flow](/assets/images/ss5/multi-step-flow.png){: .diagram }
+*Figure: High-level visualization of the user's Social Security card application flow.*
 
 ### Core collaborators:
 
