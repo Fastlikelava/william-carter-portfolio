@@ -260,7 +260,7 @@ Users reported:
 
 ![Pause Point Example](/assets/images/ss5/User_centric_documentation_instructions.png){: .diagram }
 
-*Figure: Examples of user-centric documentation requests that facilitate task completion on the first contact.*
+*Figure: Examples of "Pause Points": strategically placed, user-specific prompts that increase the likelihood of resolving tasks during the initial interaction.*
 
 ---
 
