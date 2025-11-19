@@ -163,27 +163,39 @@ I led or co-led:
 
 ## 3b. Defining Logic & Requirements
 
-  The tool required mapping **every possible user scenario**, including:
+Designing this tool required untangling every possible scenario a user might fall into.  
+Eligibility for a Social Security card depends on a wide range of factors, including:
 
-  - reason for request  
-  - citizenship status  
-  - location  
-  - documentation availability  
-  - special exceptions
-  - state laws concerning electronic disclosure   
+- reason for the request  
+- citizenship or immigration status  
+- location (inside the U.S., abroad, or transient)  
+- documentation availability  
+- third-party or parental filing rules  
+- state laws governing electronic disclosure  
+- special exceptions and edge cases  
 
-  We converted complex program logic into **user-centered logic**:
+Early analysis showed that the existing logic was written for program administrators—not for the public. To create a clearer, more navigable experience, we reframed the decision points around **user-centered questions**, presented in a natural order that aligned with real mental models.
 
-  I. Who are you? 
-  Knowing if you filing for yourself, your child, or a third party helps us determin eligiblity to recive a replacement card.   
-  II. Why do you need a card?
-      Recently adopted, non-citzens attaing permentat resident status, and those without traditional identification require differnt documention proofs.  
-  III. Where are you located?
-  Citizens living abroad, transient individuals, and users living in pro electronic discloure states all have different workflows.
-  IV. Do you have these documents?  
-  V. What applies to your situation?  
+### The core structure of the redesigned logic
 
-This produced a streamlined decision-tree architecture.
+**I. Who are you filing for?**  
+Understanding whether the user is acting for themselves, a minor child, or someone else determines eligibility and what authority or documentation they must present.
+
+**II. Why do you need a card?**  
+Different scenarios—name changes, newly naturalized citizens, recently adopted children, and users without traditional ID—trigger different evidence requirements.
+
+**III. Where are you located?**  
+Users living abroad, unhoused individuals, and those in states that permit electronic disclosure each require distinct workflows and instructions.
+
+**IV. What documents do you have today?**  
+Users often misunderstand “original” versus “certified” documents. Asking early about what they possess helps route them into the correct evidence path.
+
+**V. What else applies to your situation?**  
+Additional conditions—such as age, recent immigration status changes, or special exceptions—further refine the path and ensure accuracy.
+
+---
+
+By restructuring the program’s dense, rule-based logic into straightforward, sequential questions, we created a **streamlined decision-tree architecture** that users could navigate one step at a time without needing to understand the underlying policy.
 
 
 
