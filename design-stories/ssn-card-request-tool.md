@@ -94,7 +94,7 @@ We needed an experience that was:
 - accessible  
 
 
-![Documentation instructions](/assets/images/ss5/what-docs-instructions.png){: .diagram } 
+![Stitched set of three mobile screenshots showing the previous Social Security Administration 'required documents' page as it appears on mobile, with dense text and minimal visual hierarchy.](/assets/images/ss5/what-docs-instructions.png){: .diagram } 
 
 *Figure 1.: Before, users lacked a single, authoritative way to verify the documents they specifically needed.*
 
@@ -123,7 +123,7 @@ I led or co-led:
 - Field office SMEs  
 - Accessibility and design system contributors  
 
-![High level Social Security Card application flow](/assets/images/ss5/multi-step-flow.png){: .diagram }
+![Flowchart showing a high-level internal process for Social Security Card applications, indicating that all children must visit an office, and only U.S. citizens who can be verified electronically can file online.](/assets/images/ss5/multi-step-flow.png){: .diagram }
 
 *Figure 2: High-level visualization of the user's Social Security card application flow.*
 
@@ -220,7 +220,7 @@ This produced a streamlined decision-tree architecture.
   - Simplified question wording  
   - Reordered steps based on user mental models  
   - Added clearer document descriptions  
-  - Strengthened final next steps “Pause Point” instructions (See Figure 3)  
+  - Strengthened final next steps “Pause Point” instructions  
   - Improved readability and scannability  
   - Ensured parity across English and Spanish  
 
@@ -245,9 +245,6 @@ We aligned on:
 - UI patterns  
 - Launch timing and review cycles  
 
-![Pause Point Example](/assets/images/ss5/User_centric_documentation_instructions.png){: .diagram }
-
-*Figure: Examples of "Pause Points": strategically placed, user-specific prompts that increase the likelihood of resolving tasks during the initial interaction.*
 
 ---
 
@@ -276,7 +273,7 @@ Users reported:
 - “feeling less stressed”  
 - “understanding what applies to me”
 
-![Pause Point Examples](/assets/images/ss5/User_centric_instructions.png){: .diagram }
+![Image showing five Pause Point examples for Social Security Card applications: one for users experiencing homelessness, two for users who must visit an office but should start online, one for users who can apply entirely online, and one for citizens living outside the U.S.](/assets/images/ss5/User_centric_instructions.png){: .diagram }
 
 *Figure4: Examples of "Pause Points": strategically placed, user-specific prompts that increase the likelihood of resolving tasks during the initial interaction.*
 
