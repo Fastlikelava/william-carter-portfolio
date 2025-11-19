@@ -38,6 +38,8 @@ The SSN Card Request Tool (affectionately called "the enumeration screener" by i
 
 I served as a **UX strategist, content designer, and flow architect**, shaping the logic, UI structure, and plain-language experience behind the tool.
 
+The following sections offer a structured walkthrough of how we translated a dense policy domain into a streamlined digital workflow—covering discovery, logic definition, design, testing, organizational impact, and opportunities for future improvement. Together, they highlight the depth of this work and the systems-level change it enabled.
+
 ---
 
 # 1. The Call to Solve a Problem - Clarifying User Needs, Pain Points, and the Core Challenge
