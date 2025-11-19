@@ -40,8 +40,7 @@ I served as a **UX strategist, content designer, and flow architect**, shaping t
 
 ---
 
-# 1. The Call to Solve a Problem
-      # Clarifying User Needs, Pain Points, and the Core Challenge
+# 1. The Call to Solve a Problem - Clarifying User Needs, Pain Points, and the Core Challenge
 
 The original experience had several challenges, users often dealt with:
 
@@ -128,8 +127,7 @@ I led or co-led:
 
 ---
 
-# 3. Navigating the Design Journey
-# End-to-End UX Process: Discovery, IA, Content Strategy, Prototyping, and Testing
+# 3. Navigating the Design Journey - End-to-End UX Process: Discovery, IA, Content Strategy, Prototyping, and Testing
 
 ## a. Discovery & Research
 
@@ -251,8 +249,7 @@ We aligned on:
 
 ---
 
-# 4. Reaching the Breakthrough Moments
- **Key Insights, Usability Findings, Decisions, and Iterations**
+# 4. Reaching the Breakthrough Moments - Key Insights, Usability Findings, Decisions, and Iterations
 
 ### Clarity & comprehension
 
@@ -281,8 +278,7 @@ Users reported:
 
 ---
 
-# 5. Ripples Across the Organization
-     **Outcomes, Impact Metrics, and Alignment to Agency Priorities**
+# 5. Ripples Across the Organization - Outcomes, Impact Metrics, and Alignment to Agency Priorities
 
 This project strengthened my ability to design:
 
@@ -304,8 +300,7 @@ This project is a perfect example of designing experiences that work for users *
 
 ---
 
-# 6. Reflections and Future Direction
-     **Summary, Lessons Learned, and Opportunities for Continued Improvement**
+# 6. Reflections and Future Direction - Summary, Lessons Learned, and Opportunities for Continued Improvement
 
 The SSN Card Request Tool demonstrates how user-centered design can:
 
