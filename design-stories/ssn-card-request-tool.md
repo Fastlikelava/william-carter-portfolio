@@ -62,7 +62,7 @@ SSA's documentation rules were scattered across inconsistent sources, including:
 - help pages created at different times with uneven updates, leaving users unsure which instructions to trust  
 - outdated FAQs with contradicting rules  
 - field-office exceptions that never surfaced online
-- “sanitized” internal policy manuals (POMS) not designed for public use, but shared on the public site in ways that often confused users
+- “sanitized” internal policy manuals not designed for public use, but shared on the public site in ways that often confused users
 
   This “before” experience (see Figure 1) tried to answer everyone’s question of **“What documents do I need?”**—but failed to answer what **I**, the individual user, needed based on **my** situation. With generic, conflicting instructions and no clear call to action, users were left uncertain and overwhelmed, a major driver of application errors and repeat office visits.
 
@@ -96,7 +96,7 @@ We needed an experience that was:
 - accessible  
 
 
-![Stitched set of three mobile screenshots showing the previous Social Security Administration 'required documents' page as it appears on mobile, with dense text and minimal visual hierarchy.](/assets/images/ss5/what-docs-instructions.png){: .diagram } 
+![Stitched set of three screenshots showing the previous SSA site 'required documents' page as it appears on mobile, with dense text and minimal visual hierarchy.](/assets/images/ss5/what-docs-instructions.png){: .diagram } 
 
 *Figure 1.: Before, users lacked a single, authoritative way to verify the documents they specifically needed.*
 
@@ -174,9 +174,12 @@ I led or co-led:
 
   We converted complex program logic into **user-centered logic**:
 
-  I. Who are you?  
-  II. Why do you need a card?  
-  III. Where are you located?  
+  I. Who are you? 
+  Knowing if you filing for yourself, your child, or a third party helps us determin eligiblity to recive a replacement card.   
+  II. Why do you need a card?
+      Recently adopted, non-citzens attaing permentat resident status, and those without traditional identification require differnt documention proofs.  
+  III. Where are you located?
+  Citizens living abroad, transient individuals, and users living in pro electronic discloure states all have different workflows.
   IV. Do you have these documents?  
   V. What applies to your situation?  
 
