@@ -58,7 +58,7 @@ The core challenge: **How do we turn a giant, policy-heavy site into a top-task,
 
 # 2. My Role & Team
 
-### Role: Content Strategist / UX Lead (GS-13)
+### Role: Content Strategist / UX Lead
 
 I worked as part of a cross-functional Web Strategy team alongside USDS, GSA, developers, analysts, and program offices.
 
