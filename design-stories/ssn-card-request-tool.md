@@ -139,7 +139,7 @@ I led or co-led:
   - the *biggest user misunderstandings*  
   - the *most common failure points* in eligibility flows  
 
-  ### Research methods:
+  Research methods:
 
   - Analytics review (search queries, task funnels)  
   - Interviews with field office staff  
@@ -148,7 +148,7 @@ I led or co-led:
   - Spanish-language comprehension feedback  
   - Comparative analysis of decision tools (DMV, USCIS, GOV.UK)  
 
-  ### Key insights:
+  Key insights:
 
   - Users misunderstood what “original documents” meant  
   - Name-change workflows were deeply confusing  
@@ -184,7 +184,7 @@ This produced a streamlined decision-tree architecture.
 
 ## 3c. Design & Prototyping (Figma)
 
-  ### Deliverables I created:
+  Deliverables I created:
 
   - Wireframes for each decision step  
   - Mobile-first UI patterns  
@@ -193,7 +193,7 @@ This produced a streamlined decision-tree architecture.
   - Results-page layout and content   
   - Reusable components integrated with the design system  
 
-  ### UX principles used:
+  UX principles used:
 
   - **One question per screen**  
   - **Plain language**  
@@ -215,7 +215,7 @@ This produced a streamlined decision-tree architecture.
   - Policy accuracy checks  
   - Error-case walkthroughs  
 
-  ### Improvements made:
+  Improvements made:
 
   - Simplified question wording  
   - Reordered steps based on user mental models  
@@ -255,7 +255,7 @@ We aligned on:
 
 ### Clarity & comprehension
 
-I crafted the copy to match the terminology field offices used every day, ensuring users and staff were finally speaking the same language.
+I crafted the copy to match the terminology field offices use every day, ensuring users and staff were finally speaking the same language. (See Figure 4)
 
 - Significant reduction in comprehension errors  
 - Spanish-language comprehension improved due to rewritten structures   
@@ -276,9 +276,9 @@ Users reported:
 - “feeling less stressed”  
 - “understanding what applies to me”
 
-![Pause Point Example](/assets/images/ss5/User_centric_documentation_instructions.png){: .diagram }
+![Pause Point Examples](/assets/images/ss5/User_centric_instructions.png){: .diagram }
 
-*Figure: Examples of "Pause Points": strategically placed, user-specific prompts that increase the likelihood of resolving tasks during the initial interaction.*
+*Figure4: Examples of "Pause Points": strategically placed, user-specific prompts that increase the likelihood of resolving tasks during the initial interaction.*
 
 ---
 
