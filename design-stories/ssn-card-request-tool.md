@@ -62,11 +62,7 @@ SSA's documentation rules were scattered across inconsistent sources, including:
 - field-office exceptions that never surfaced online
 - “sanitized” internal policy manuals (POMS) not designed for public use, but shared on the public site in ways that often confused users
 
-  This “before” experience (see Figure 1a) tried to answer everyone’s question of **“What documents do I need?”**—but failed to answer what **I**, the individual user, needed based on **my** situation. With generic, conflicting instructions and no clear call to action, users were left uncertain and overwhelmed, a major driver of application errors and repeat office visits.
-
-![Documentation instructions](/assets/images/ss5/what-docs-instructions.png){: .diagram } 
-
-*Figure 1a.: Before, users lacked a single, authoritative way to verify the documents they specifically needed.*
+  This “before” experience (see Figure 1) tried to answer everyone’s question of **“What documents do I need?”**—but failed to answer what **I**, the individual user, needed based on **my** situation. With generic, conflicting instructions and no clear call to action, users were left uncertain and overwhelmed, a major driver of application errors and repeat office visits.
 
 ### c. Broken user journeys that created avoidable strain on staff
 
@@ -88,7 +84,6 @@ Most users approached this task with real urgency. They needed a Social Security
 
 That urgency elevated stress, and that stress made an already confusing experience feel even harder to navigate, increasing errors, repeat visits, and frustration. In turn, stressed and confused users put additional pressure on already overworked staff, creating a vicious cycle where unclear guidance amplified stress on both sides of the counter. 
 
-
 We needed an experience that was:
 
 - clear  
@@ -97,6 +92,11 @@ We needed an experience that was:
 - low-literacy-friendly  
 - policy-accurate  
 - accessible  
+
+
+![Documentation instructions](/assets/images/ss5/what-docs-instructions.png){: .diagram } 
+
+*Figure 1.: Before, users lacked a single, authoritative way to verify the documents they specifically needed.*
 
 ---
 
@@ -108,13 +108,11 @@ I led or co-led:
 
 - Mapping the **full decision logic**  
 - Translating policy into **user-friendly questions**  
-- Designing wireframes and multi-step flows  
+- Designing wireframes and multi-step flows (See Figure 2)  
 - Creating mobile-first UI patterns  
 - Writing eligibility and result content  
-- Ensuring design system + accessibility alignment  
+- Ensuring design system and accessibility alignment  
 - Collaborating closely with policy SMEs and operations teams
-![High level Social Security Card application flow](/assets/images/ss5/multi-step-flow.png){: .diagram }
-*Figure: High-level visualization of the user's Social Security card application flow.*
 
 ### Core collaborators:
 
@@ -125,116 +123,116 @@ I led or co-led:
 - Field office SMEs  
 - Accessibility and design system contributors  
 
+![High level Social Security Card application flow](/assets/images/ss5/multi-step-flow.png){: .diagram }
+
+*Figure 2: High-level visualization of the user's Social Security card application flow.*
+
 ---
 
 # 3. Navigating the Design Journey - End-to-End UX Process: Discovery, IA, Content Strategy, Prototyping, and Testing
 
-## a. Discovery & Research
+## 3a. Discovery & Research
 
-We identified:
+  We identified:
 
-- the *top reasons* people request an SSN card  
-- the *biggest user misunderstandings*  
-- the *most common failure points* in eligibility flows  
+  - the *top reasons* people request an SSN card  
+  - the *biggest user misunderstandings*  
+  - the *most common failure points* in eligibility flows  
 
-### Research methods:
+  ### Research methods:
 
-- Analytics review (search queries, task funnels)  
-- Interviews with field office staff  
-- Review of call-center logs  
-- Assessment of common user error cases  
-- Spanish-language comprehension feedback  
-- Comparative analysis of decision tools (DMV, USCIS, GOV.UK)  
+  - Analytics review (search queries, task funnels)  
+  - Interviews with field office staff  
+  - Review of call-center logs  
+  - Assessment of common user error cases  
+  - Spanish-language comprehension feedback  
+  - Comparative analysis of decision tools (DMV, USCIS, GOV.UK)  
 
-### Key insights:
+  ### Key insights:
 
-- Users misunderstood what “original documents” meant  
-- Name-change workflows were deeply confusing  
-- Non-citizen pathways were unclear  
-- Living-abroad rules were hidden or inconsistent  
-- Users felt overwhelmed by dense information
-- Child-focused workflows needed to balance clear guidance for minors with strict compliance to federal (COPPA/CIPA) regulations. 
+  - Users misunderstood what “original documents” meant  
+  - Name-change workflows were deeply confusing  
+  - Non-citizen pathways were unclear  
+  - Living-abroad rules were hidden or inconsistent  
+  - Users felt overwhelmed by dense information
+  - Child-focused workflows needed to balance clear guidance for minors with strict compliance to federal (COPPA/CIPA) regulations. 
 
 
----
 
-## b. Defining Logic & Requirements
+## 3b. Defining Logic & Requirements
 
-The tool required mapping **every possible user scenario**, including:
+  The tool required mapping **every possible user scenario**, including:
 
-- reason for request  
-- citizenship status  
-- location  
-- documentation availability  
-- special exceptions
-- state laws concerning electronic disclosure   
+  - reason for request  
+  - citizenship status  
+  - location  
+  - documentation availability  
+  - special exceptions
+  - state laws concerning electronic disclosure   
 
-We converted complex program logic into **user-centered logic**:
+  We converted complex program logic into **user-centered logic**:
 
-1. Who are you?  
-2. Why do you need a card?  
-3. Where are you located?  
-4. Do you have these documents?  
-5. What applies to your situation?  
+  I. Who are you?  
+  II. Why do you need a card?  
+  III. Where are you located?  
+  IV. Do you have these documents?  
+  V. What applies to your situation?  
 
 This produced a streamlined decision-tree architecture.
 
 
----
 
-## c. Design & Prototyping (Figma)
+## 3c. Design & Prototyping (Figma)
 
-### Deliverables I created:
+  ### Deliverables I created:
 
-- Wireframes for each decision step  
-- Mobile-first UI patterns  
-- Question and answer structures  
-- Document explainer components  
-- Results-page layout and content  
-- Reusable components integrated with the design system  
+  - Wireframes for each decision step  
+  - Mobile-first UI patterns  
+  - Question and answer structures  
+  - Document explainer components  
+  - Results-page layout and content   
+  - Reusable components integrated with the design system  
 
-### UX principles used:
+  ### UX principles used:
 
-- **One question per screen**  
-- **Plain language**  
-- **Contextual help** for documents  
-- **Progressive disclosure**  
-- **Error prevention through clarity**  
-- **WCAG AA+ accessibility**  
+  - **One question per screen**  
+  - **Plain language**  
+  - **Contextual help** for documents  
+  - **Progressive disclosure**  
+  - **Error prevention through clarity**  
+  - **WCAG AA+ accessibility**  
 
 
----
 
-## d. Testing & Iteration
+## 3d. Testing & Iteration
 
-We used:
+  We used:
 
-- Moderated usability sessions  
-- Comprehension testing  
-- Spanish-language QA  
-- Accessibility reviews  
-- Policy accuracy checks  
-- Error-case walkthroughs  
+  - Moderated usability sessions  
+  - Comprehension testing  
+  - Spanish-language QA  
+  - Accessibility reviews  
+  - Policy accuracy checks  
+  - Error-case walkthroughs  
 
-### Improvements made:
+  ### Improvements made:
 
-- Simplified question wording  
-- Reordered steps based on user mental models  
-- Added clearer document descriptions  
-- Strengthened final next steps “Pause Point” instructions  
-- Improved readability and scannability  
-- Ensured parity across English and Spanish  
+  - Simplified question wording  
+  - Reordered steps based on user mental models  
+  - Added clearer document descriptions  
+  - Strengthened final next steps “Pause Point” instructions (See Figure 3)  
+  - Improved readability and scannability  
+  - Ensured parity across English and Spanish  
 
 Testing confirmed major increases in clarity and task confidence.
 
 
----
 
-## e. Delivery & Collaboration
+## 3e. Delivery & Collaboration
 
 I collaborated with:
 
-- Developers (to convert logic → code)  
+- Developers (to convert logic to code)  
 - Spanish reviewers (for linguistic parity)  
 - Policy teams (for accuracy)  
 - Operations teams (to confirm office readiness)  
@@ -246,6 +244,10 @@ We aligned on:
 - Error-handling rules  
 - UI patterns  
 - Launch timing and review cycles  
+
+![Pause Point Example](/assets/images/ss5/User_centric_documentation_instructions.png){: .diagram }
+
+*Figure: Examples of "Pause Points": strategically placed, user-specific prompts that increase the likelihood of resolving tasks during the initial interaction.*
 
 ---
 
