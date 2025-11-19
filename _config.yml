@@ -46,3 +46,10 @@ featured:
     image: /assets/images/ssa-redesign/hero.png
     title: "SSA Digital-First Redesign"
     excerpt: "Modernizing one of the most widely used public-facing federal digital experiences."
+
+featured:
+  - url: /design-stories/digital-experience-council/
+    image: /assets/images/dec/dec-thumbnail.png
+    title: "Digital Experience Council"
+    excerpt: "Building the governance, standards, and cross-team alignment needed to guide SSA’s digital transformation at scale."
+
