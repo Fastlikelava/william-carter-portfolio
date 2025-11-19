@@ -101,8 +101,7 @@ We needed an experience that was:
 
 ---
 
-# 2. Gathering the Right Team
-     **My Role, Collaboration Approach, and Cross-Functional Partnerships** 
+# 2. Gathering the Right Team - My Role, Collaboration Approach, and Cross-Functional Partnerships
 
 ### **Role: UX Strategist / Content Designer**
 
@@ -130,7 +129,7 @@ I led or co-led:
 ---
 
 # 3. Navigating the Design Journey
-     **End-to-End UX Process: Discovery, IA, Content Strategy, Prototyping, and Testing**
+# End-to-End UX Process: Discovery, IA, Content Strategy, Prototyping, and Testing
 
 ## a. Discovery & Research
 
@@ -253,7 +252,7 @@ We aligned on:
 ---
 
 # 4. Reaching the Breakthrough Moments
-     **Key Insights, Usability Findings, Decisions, and Iterations**
+ **Key Insights, Usability Findings, Decisions, and Iterations**
 
 ### Clarity & comprehension
 
