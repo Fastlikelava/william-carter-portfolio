@@ -255,8 +255,10 @@ We aligned on:
 
 ### Clarity & comprehension
 
+I crafted the copy to match the terminology field offices used every day, ensuring users and staff were finally speaking the same language.
+
 - Significant reduction in comprehension errors  
-- Spanish-language comprehension improved due to rewritten structures  
+- Spanish-language comprehension improved due to rewritten structures   
 - Name-change confusion dropped from **~60% → ~15%** in testing  
 
 ### Operational impact
