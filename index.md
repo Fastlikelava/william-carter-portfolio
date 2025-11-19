@@ -1,5 +1,6 @@
 ---
-layout: splash
+layout: home
+author_profile: true
 title: "I design systems and stories that help people thrive."
 header:
   overlay_color: "#0f172a"
@@ -10,6 +11,7 @@ header:
   caption: "William E. J. Carter — UX & Content Strategy"
 excerpt: "UX and content strategist with 17+ years improving public services through human-centered design, data, and collaboration."
 ---
+
 
 ## Featured Projects
 
