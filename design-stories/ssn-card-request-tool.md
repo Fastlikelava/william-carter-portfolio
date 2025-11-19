@@ -174,7 +174,7 @@ Eligibility for a Social Security card depends on a wide range of factors, inclu
 - state laws governing electronic disclosure  
 - special exceptions and edge cases  
 
-Early analysis showed that the existing logic was written for program administrators—not for the public. To create a clearer, more navigable experience, we reframed the decision points around **user-centered questions**, presented in a natural order that aligned with real mental models.
+Early analysis showed that the existing logic was either nonexistent or written for program administrators—not for the public. To create a clearer, more navigable experience, we reframed the decision points around **user-centered questions**, presented in a natural order that aligned with real mental models.
 
 ### The core structure of the redesigned logic
 
@@ -296,15 +296,14 @@ Users reported:
 
 ---
 
-# 5. Ripples Across the Organization  
-### Outcomes, Impact Metrics, and Alignment to Agency Priorities
+# 5. Ripples Across the Organization - Outcomes, Impact Metrics, and Alignment to Agency Priorities
 
 The SSN Card Request Tool was designed to help individuals understand a complex, high-stakes process — but its effects reached far beyond the user interface. It created measurable improvements across multiple layers of SSA’s service delivery ecosystem.
 
 ## Measurable Outcomes
 
 ### Increased comprehension and reduced errors
-- Name-change workflow confusion dropped from **~60% → ~15%** in usability testing.  
+- Name-change workflow confusion dropped from **~60% to ~15%** in usability testing.  
 - Users’ ability to correctly identify required documents increased significantly across both English and Spanish flows.  
 - Participants reported a noticeable increase in confidence and clarity during testing.
 
@@ -380,8 +379,7 @@ The SSN Card Request Tool demonstrates how targeted workflow improvements can re
 
 ---
 
-# 6. Reflections and Future Direction  
-### Summary, Lessons Learned, and Opportunities for Continued Improvement
+# 6. Reflections and Future Direction - Summary, Lessons Learned, and Opportunities for Continued Improvement
 
 Designing the SSN Card Request Tool reinforced a core lesson: even the most complex, policy-heavy workflows can be made clearer, more humane, and more navigable when we center real user needs and structure logic around their mental models rather than program rules.
 
@@ -413,7 +411,7 @@ Although we made substantial progress in simplifying the eligibility journey, se
 
 ### Final Reflection
 
-This project highlighted how impactful workflow design can be when grounded in research, collaboration, and iterative refinement. There is meaningful room to extend this approach across the full enumeration lifecycle—and I’m excited by the prospect of continuing this work wherever complex services need clarity and structure.
+This project highlighted how impactful workflow design can be when grounded in research, collaboration, and iterative refinement. There is meaningful room to extend this approach across the full enumeration lifecycle—and I’m excited by the prospect of continuing this type of work where complex services need clarity and structure.
 
 ---
 
