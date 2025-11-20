@@ -14,7 +14,7 @@ plugins:
 
 author:
   name: "William E. J. Carter"
-  avatar: "/assets/images/headshot.jpg"
+  avatar: "/assets/images/headshot/temp_humanux.jpeg"
   bio: "UX & Content Strategist focused on clarity, accessibility, and measurable results."
   links:
     - label: "LinkedIn"
