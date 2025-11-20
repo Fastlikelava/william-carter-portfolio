@@ -23,7 +23,7 @@ An online tool that guides people through the process of getting or replacing a 
 
 ---
 
-## [DTPS Workload Dashboard (Program Expert)](/design-stories/dtps-workload-dashboard/)
+## [DTPS Workload Dashboard](/design-stories/dtps-workload-dashboard/)
 
 > *Coming soon.*
 
