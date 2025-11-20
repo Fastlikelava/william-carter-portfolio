@@ -14,6 +14,7 @@ header:
   caption: "William E. J. Carter — UX & Content Strategy"
 excerpt: "UX and content strategist with 17+ years improving public services through human-centered design, data, and collaboration."
 ---
+{% assign posts = null %}
 
 
 ## Featured Projects
