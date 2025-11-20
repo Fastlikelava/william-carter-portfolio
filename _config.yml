@@ -2,6 +2,7 @@ title: "William E. J. Carter — UX & Content Strategy"
 name: "William E. J. Carter"
 url: "https://www.humanfirstux.work"
 baseurl: ""
+
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
 
@@ -18,7 +19,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "www.linkedin.com/in/william-carter-65518059"
+      url: "https://www.linkedin.com/in/william-carter-65518059"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/Fastlikelava/william-carter-portfolio"
@@ -39,10 +40,5 @@ collections:
     output: true
 
 locale: "en-US"
-description: "Portfolio of William E. J. Carter — UX & Content Strategy leader transforming complex services into simple, accessible digital experiences."
 
-featured:
-  - url: /design-stories/digital-experience-council/
-    image: /assets/images/dec/dec-thumbnail.png
-    title: "Digital Experience Council"
-    excerpt: "Building the governance, standards, and cross-team alignment needed to guide SSA’s digital transformation at scale."
+description: "Portfolio of William E. J. Carter — UX & Content Strategy leader transforming complex services into simple, accessible digital experiences."
