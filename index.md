@@ -22,6 +22,13 @@ feature_row:
     title: "Digital Experience Council"
     excerpt: "Building the governance, standards, and cross-team alignment needed to guide SSA’s digital transformation at scale."
     url: "/design-stories/digital-experience-council/"
+    
+  - image_path: /assests/images/dec/redesign.png
+    alt: "SSA Digital-First Redesign thumbnail"
+    url: /design-stories/ssa-digital-first-redesign/
+    image: /assets/images/ssa-redesign/hero.png
+    title: "My Design Story for SSA's Redesign"
+    excerpt: "Modernizing one of the most widely used public-facing federal digital experiences."
 ---
 
 ## Featured Projects
