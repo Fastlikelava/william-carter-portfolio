@@ -14,7 +14,9 @@ header:
   cta_url: "/design-stories/"
 
 caption: "William E. J. Carter — UX & Content Strategy"
-excerpt: "UX and content strategist with 17+ years improving public services through human-centered design, data-informed decisions, and cross-team collaboration."
+excerpt: "UX and content strategist with 17+ years improving public services through human-centered design, data-informed decisions, and cross-team collaboration.
+
+~~At times, we unnecessarily~~ _make_ ~~our stories or instructions overly complex, crafting verbose narratives under the assumption that~~ _it_ ~~– our complexity – will convey intelligence or sophistication. In reality, such approaches rarely achieve the intended effect. Overly intricate copy, which increases cognitive load, often will~~ _make_ ~~users disengage or become frustrated with the material we present. Adopting a more nuanced strategy—one that prioritizes plain language and clear, accessible instructions—helps users derive~~ _sense_ ~~from unfamiliar concepts and facilitates effective communication.~~"
 
 feature_row:
   - image_path: /assets/images/dec/dec-thumbnail.png
@@ -24,8 +26,8 @@ feature_row:
     url: "/design-stories/digital-experience-council/"
 ---
 
-{% assign posts = null %}
-
 ## Featured Projects
+
+{% assign posts = null %}
 
 {% include feature_row %}
