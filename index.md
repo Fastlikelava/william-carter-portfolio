@@ -25,10 +25,9 @@ feature_row:
     
   - image_path: /assests/images/dec/redesign.png
     alt: "SSA Digital-First Redesign thumbnail"
-    url: /design-stories/ssa-digital-first-redesign/
-    image: /assets/images/ssa-redesign/hero.png
     title: "My Design Story for SSA's Redesign"
     excerpt: "Modernizing one of the most widely used public-facing federal digital experiences."
+    url: /design-stories/ssa-digital-first-redesign/
 ---
 
 ## Featured Projects
