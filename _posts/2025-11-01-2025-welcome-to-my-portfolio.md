@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Welcome to My Portfolio"
 categories: update
 ---
