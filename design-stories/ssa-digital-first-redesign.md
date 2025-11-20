@@ -14,7 +14,7 @@ classes: large-text
 
 ## Design Story Overview
 
-When the pandemic dramatically reshaped how people accessed government services, SSA.gov was carrying enormous weight on a fragile foundation: **tens of thousands of legacy pages**, inconsistent experiences, and customer satisfaction stuck in the mid-40s.
+When the pandemic dramatically reshaped how people accessed government services, SSA.gov was carrying enormous weight on a fragile foundation: **tens of thousands of legacy pages**, inconsistent experiences, and customer satisfaction ratings stuck in the mid-40s.
 
 As a **Content Strategist and UX lead** on the Web Strategy team, I helped drive a multi-year **digital-first redesign of SSA.gov**, serving more than **180 million visitors each year** in English and Spanish.
 
@@ -30,17 +30,17 @@ My work focused on:
 **Outcomes:**  
 Within the first major releases, we saw:
 
-- Overall CSAT rising from **47.7 → 70.0** (+22.3 points)  
+- Overall CSAT rising from **47.7 to 70.0** (+22.3 points)  
 - SSI section CSAT reaching **76.5**, one of the best-performing areas on the site  
 - **25% increase** in my Social Security online transactions  
 - **550% increase** in online Benefit Verification Letters  
 - Spanish-language sections consistently rating **85%+ CSAT**
 
-The sections below walk through how we got there: the problem we faced, my role, the design and research process, the organization-wide impact, and what I’d do next.
+The sections below walk through how we got there: the problems we faced, my role, the design and research process, the organization-wide impact, and what I’d do next.
 
 ---
 
-# 1. Problem & Context
+# 1. The Call to Solve a Problem - Clarifying User Needs, Pain Points, and the Core Challenge
 
 Before the redesign, SSA.gov was:
 
@@ -57,7 +57,7 @@ The core challenge: **How do we turn a giant, policy-heavy site into a top-task,
 
 ---
 
-# 2. My Role & Team
+# 2. Gathering the Right Team - My Role, Collaboration Approach, and Cross-Functional Partnerships
 
 ### Role: Content Strategist / UX Lead
 
@@ -86,11 +86,11 @@ This was a truly enterprise-scale effort that required design, policy, operation
 
 ---
 
-# 3. End-to-End Design Process
+# 3. Navigating the Design Journey - End-to-End UX Process: Discovery, IA, Content Strategy, Prototyping, and Testing
 
 ---
 
-## 3.1 Discovery & Research
+## 3a. Discovery & Research
 
 We began by grounding decisions in both **quantitative and qualitative data**.
 
@@ -124,7 +124,7 @@ These insights became the foundation of our top-task redesign.
 
 ---
 
-## 3.2 Definition & Alignment
+## 3b. Definition & Alignment
 
 To move beyond patching pages, we framed a **top-task, digital-first strategy**.
 
@@ -159,7 +159,7 @@ We used the **Digital Experience Council** and recurring working sessions to:
 
 ---
 
-## 3.3 Design & Prototyping (Figma & Design System)
+## 3c. Design & Prototyping (Figma & Design System)
 
 With strategy and IA aligned, we moved into **design and prototyping**.
 
@@ -188,7 +188,11 @@ I helped build and maintain a **Figma-based design system** that:
 
 ---
 
-## 3.4 Testing & Iteration
+# 4. Reaching the Breakthrough Moments - Key Insights, Usability Findings, Decisions, and Iterations
+
+---
+
+## 4a. Testing & Iteration
 
 We treated each release as an opportunity to learn and refine.
 
@@ -215,7 +219,7 @@ This iterative loop was critical to moving the CSAT needle and making sure impro
 
 ---
 
-## 3.5 Agile Delivery & Cross-Functional Collaboration
+## 4b. Agile Delivery & Cross-Functional Collaboration
 
 We delivered the redesign in **phased, Agile increments**, rather than a one-time “big bang.”
 
@@ -237,8 +241,7 @@ This approach helped us reduce risk, gather evidence, and continuously improve.
 
 ---
 
-# 4. Ripples Across the Organization  
-### Outcomes, Impact Metrics, and Alignment to Agency Priorities
+# 5. Ripples Across the Organization - Outcomes, Impact Metrics, and Alignment to Agency Priorities  
 
 The redesign didn’t just improve individual pages—it changed how SSA planned, delivered, and measured digital services.
 
@@ -292,8 +295,7 @@ The design system, templates, and collaboration patterns we established:
 
 ---
 
-# 5. Reflections and Future Direction  
-### Summary, Lessons Learned, and Opportunities for Continued Improvement
+# 6. Reflections and Future Direction - Summary, Lessons Learned, and Opportunities for Continued Improvement
 
 The SSA.gov digital-first redesign reinforced a central lesson: at enterprise scale, **clarity, consistency, and top-task focus are as important as visual polish**.
 
