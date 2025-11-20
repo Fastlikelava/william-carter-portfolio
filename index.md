@@ -1,6 +1,9 @@
 ---
 layout: home
 author_profile: true
+show_excerpts: false
+paginate: false
+entries_layout: grid
 title: "I design systems and stories that help people thrive."
 header:
   overlay_color: "#0f172a"
