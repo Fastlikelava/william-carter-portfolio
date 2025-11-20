@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: SSA.gov Digital-First Redesign
 permalink: /design-stories/ssa-digital-first-redesign/
 classes: large-text
