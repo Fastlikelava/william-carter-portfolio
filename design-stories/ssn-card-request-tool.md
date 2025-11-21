@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: collection
 title: SSN Card Request Tool
 permalink: /design-stories/ssn-card-request-tool/
 classes: large-text
