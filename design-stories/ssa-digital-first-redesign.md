@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SSA.gov Mobile-First Redesign
+title: SSA.gov Digital-First Redesign
 permalink: /design-stories/ssa-digital-first-redesign/
 ---
 
@@ -23,7 +23,7 @@ SSA.gov serves more than **180 million visitors a year**, making it one of the m
 - uneven Spanish parity across high-impact content  
 - growing demand for online services after the pandemic closed field offices  
 
-The Digital-First Redesign aimed to modernize user experiences across the entire site: simplify top tasks, improve accessibility, strengthen Spanish-language content, and create a cohesive design system rooted in usability and evidence.
+The Digital-First Redesign—part of SSA’s transition from a field-office-first service model to an online-first, scalable digital ecosystem—aimed to modernize high-impact user journeys across the site by streamlining top tasks, improving accessibility, strengthening Spanish-language equity, and establishing a cohesive enterprise design system rooted in usability and evidence.
 
 What follows is the story of how we re-centered SSA.gov around user needs and modern web practices—ultimately increasing CSAT to **70.0**, improving online service adoption, and laying the foundation for sustainable enterprise-wide digital governance.
 
@@ -31,8 +31,7 @@ To show how this came together end-to-end, the following six sections walk throu
 
 ---
 
-# 1. The Call to Solve a Problem  
-### Clarifying User Needs, Pain Points, and the Core Challenge
+# 1. The Call to Solve a Problem - Clarifying User Needs, Pain Points, and the Core Challenge
 
 Before the redesign, the SSA.gov experience was shaped more by program structures than by how people actually searched, navigated, or completed tasks online. Our early research surfaced a consistent pattern:
 
@@ -65,8 +64,7 @@ This was not a page redesign—it was a structural and cultural shift.
 
 ---
 
-# 2. Gathering the Right Team  
-### My Role, Collaboration Approach, and Cross-Functional Partnerships
+# 2. Gathering the Right Team - My Role, Collaboration Approach, and Cross-Functional Partnerships
 
 ### My Role: Content Strategist & UX Lead
 
@@ -108,8 +106,7 @@ We worked in Agile cycles, delivering improvements in measurable increments rath
 
 ---
 
-# 3. Navigating the Design Journey  
-### End-to-End UX Process: Discovery, IA, Content Strategy, Prototyping, and Testing
+# 3. Navigating the Design Journey - End-to-End UX Process: Discovery, IA, Content Strategy, Prototyping, and Testing
 
 ---
 
@@ -219,8 +216,7 @@ We conducted:
 
 ---
 
-# 4. Reaching the Breakthrough Moments  
-### Key Insights, Usability Findings, Decisions, and Iterations
+# 4. Reaching the Breakthrough Moments - Key Insights, Usability Findings, Decisions, and Iterations
 
 ### Breakthrough #1: Users wanted tasks, not programs  
 Switching from program-focused pages to task-focused landing pages significantly improved findability and comprehension.
@@ -239,8 +235,7 @@ CSAT rising from **47.7 → 70.0** aligned directly with a redesigned experience
 
 ---
 
-# 5. Ripples Across the Organization  
-### Outcomes, Impact Metrics, and Alignment to Agency Priorities
+# 5. Ripples Across the Organization - Outcomes, Impact Metrics, and Alignment to Agency Priorities
 
 The redesign’s impact rippled far beyond the pages themselves.
 
@@ -274,8 +269,7 @@ This work contributed to:
 
 ---
 
-# 6. Reflections and Future Direction  
-### Summary, Lessons Learned, and Opportunities for Continued Improvement
+# 6. Reflections and Future Direction - Summary, Lessons Learned, and Opportunities for Continued Improvement
 
 ### What I Learned
 
