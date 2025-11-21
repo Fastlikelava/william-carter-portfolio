@@ -35,7 +35,7 @@ To show how this came together end-to-end, the following six sections walk throu
 
 Before the redesign, the SSA.gov experience was shaped more by program structures than by how people actually searched, navigated, or completed tasks online. Our early research surfaced a consistent pattern:
 
-> **Users weren’t looking for “programs”—they were looking for solutions.**  
+> **Users weren’t Googling “programs”—they were searching for solutions.**  
 > (“Apply for retirement,” “Get a card,” “Verify my benefits,” “Check a payment.”)
 
 ### Where the experience broke down
@@ -56,7 +56,7 @@ We needed to transform SSA.gov into a **task-centered, mobile-first, research-in
 - made high-impact tasks obvious and easy to begin  
 - provided clear, plain language that matched user expectations  
 - ensured Spanish-language structural parity  
-- aligned with accessibility and CX mandates  
+- aligned with accessibility, UX best practices, and federal CX mandates  
 - reduced burden on call centers and field offices  
 - created a system of reusable components to scale change  
 
@@ -74,7 +74,7 @@ I served as a core strategist on the redesign team, responsible for:
 - building and governing the **SSA Design System** in Figma aligned with USWDS  
 - redesigning **task-focused page templates** and flows  
 - partnering with researchers to analyze Medallia, DAP/GA, and usability testing  
-- overseeing English ↔ Spanish **structural parity and quality**  
+- overseeing **structural parity and quality** across English and Spanish content  
 - facilitating alignment across policy, operations, dev, and communications  
 - founding the **Digital Experience Council** for governance and standards  
 
@@ -89,7 +89,7 @@ This was a deeply cross-functional initiative involving:
 - Accessibility specialists  
 - Spanish-language reviewers  
 - Data and analytics teams  
-- OCOMM and executive-level stakeholders  
+- SSA’s Office of Communications and executive-level stakeholders  
 
 ### Collaboration strategy
 
@@ -122,9 +122,6 @@ Our North Star was evidence. We combined:
 - Device breakdowns revealing extremely high mobile usage  
 - Pathing and drop-offs across top-task pages  
 
-![Quantitative Research Example]({{ site.baseurl }}/assets/images/ssa-redesign/quant_research.png)
-*Figure: Examples of quantitative inputs used to identify top tasks and pain points (illustrative only).*
-
 ### Qualitative insights
 
 - Moderated usability testing across both English and Spanish  
@@ -141,7 +138,10 @@ Our North Star was evidence. We combined:
 - Mobile users struggled with long scrolls, unclear CTAs, and low scannability.  
 - There was massive duplication—making navigation unpredictable and inconsistent.  
 
-These findings led us to a unified, top-task IA strategy.
+These findings, shown in Figure 3a, led us to a unified, top-task IA strategy.
+
+![Figure 3a – Usability testing and observations]({{ site.baseurl }}/assets/images/ssa-redesign/Website-usability-testing.png)
+*Figure 3a: Examples from usability testing and observation sessions that informed top-task prioritization and content restructuring.*
 
 ---
 
@@ -180,8 +180,8 @@ As part of the redesign, I helped build and maintain the **SSA Design System** i
 - Shared typography, spacing, and interaction standards  
 - Reusable content structures (FAQs, steps, eligibility blocks, alerts)  
 
-![Wireframes Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/Wireframs%20for%20the%20new%20landing%20page.png)
-*Figure: Wireframes for redesigned top-task landing page (illustrative only).*
+![Multiple images that show unfinished wireframs]({{ site.baseurl }}/assets/images/ssa-redesign/Wireframs-for-the-new-landing-page.png)
+*Figure: Wireframes for redesigned top-task landing page.*
 
 ### Prototyping focus
 
@@ -202,9 +202,6 @@ We conducted:
 - A/B comparisons on headings, CTA labels, alert styles  
 - Spanish-language testing  
 - Accessibility review with screen readers and keyboard navigation  
-
-![Usability Testing Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/Website%20usability%20testing.png)
-*Figure: Examples from usability testing activities (illustrative only).*
 
 ### Iterative improvements included:
 
@@ -248,7 +245,7 @@ The redesign’s impact rippled far beyond the pages themselves.
 - my Social Security digital transactions: **+25% increase**  
 - Reduced misdirected office visits and call-center burden  
 
-![Ripple Map]({{ site.baseurl }}/assets/images/ssa-redesign/ripple_map.png)
+![Three images showing the evolution of the redesigned webpage]({{ site.baseurl }}/assets/images/ssa-redesign/redesigned-webpage.png)
 *Figure: Ripple effects across SSA’s ecosystem (illustrative only).*
 
 ## Organizational Alignment
