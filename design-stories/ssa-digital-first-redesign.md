@@ -1,306 +1,301 @@
 ---
-layout: single
-title: SSA.gov Digital-First Redesign
+layout: page
+title: SSA.gov Mobile-First Redesign
 permalink: /design-stories/ssa-digital-first-redesign/
-classes: large-text
 ---
 
 [← Back to Design Stories]({{ site.baseurl }}/design-stories/)
 
-# SSA.gov Digital-First Redesign  
-### Enterprise Web • Human-Centered Design • Design System • 180M+ Visitors Annually
+# SSA.gov Mobile-First Redesign  
+### Enterprise Web • Human-Centered Design • Task-Centered UX • Accessibility & Spanish-Language Equity
 
 ---
 
 ## Design Story Overview
 
-When the pandemic dramatically reshaped how people accessed government services, SSA.gov was carrying enormous weight on a fragile foundation: **tens of thousands of legacy pages**, inconsistent experiences, and customer satisfaction ratings stuck in the mid-40s.
+SSA.gov serves more than **180 million visitors a year**, making it one of the most heavily used public-service websites in the United States. When I joined Web Strategy as a Content Strategist and UX lead, the site was struggling with:
 
-As a **Content Strategist and UX lead** on the Web Strategy team, I helped drive a multi-year **digital-first redesign of SSA.gov**, serving more than **180 million visitors each year** in English and Spanish.
+- fragmented content across more than 78,000 pages  
+- outdated templates and inconsistent design patterns  
+- low customer satisfaction (CSAT ~47.7)  
+- page-centric structures instead of task-centric journeys  
+- poor mobile usability  
+- uneven Spanish parity across high-impact content  
+- growing demand for online services after the pandemic closed field offices  
 
-My work focused on:
+The Digital-First Redesign aimed to modernize user experiences across the entire site: simplify top tasks, improve accessibility, strengthen Spanish-language content, and create a cohesive design system rooted in usability and evidence.
 
-- applying **human-centered design** to one of the U.S. government’s highest-traffic websites  
-- building and governing a **Figma-based design system** aligned with USWDS  
-- redesigning top-task workflows across retirement, Medicare, disability, SSI, and card services  
-- translating complex program rules into **plain-language content and UI patterns**  
-- using **research and analytics** (Medallia, GA/DAP) to steer design decisions  
-- coordinating with USDS, GSA, and internal components to keep everyone aligned  
+What follows is the story of how we re-centered SSA.gov around user needs and modern web practices—ultimately increasing CSAT to **70.0**, improving online service adoption, and laying the foundation for sustainable enterprise-wide digital governance.
 
-**Outcomes:**  
-Within the first major releases, we saw:
-
-- Overall CSAT rising from **47.7 to 70.0** (+22.3 points)  
-- SSI section CSAT reaching **76.5**, one of the best-performing areas on the site  
-- **25% increase** in my Social Security online transactions  
-- **550% increase** in online Benefit Verification Letters  
-- Spanish-language sections consistently rating **85%+ CSAT**
-
-The sections below walk through how we got there: the problems we faced, my role, the design and research process, the organization-wide impact, and what I’d do next.
+To show how this came together end-to-end, the following six sections walk through the core challenge, the team, the UX process, the key insights that shaped the redesign, the organization-wide impact, and what comes next.
 
 ---
 
-# 1. The Call to Solve a Problem - Clarifying User Needs, Pain Points, and the Core Challenge
+# 1. The Call to Solve a Problem  
+### Clarifying User Needs, Pain Points, and the Core Challenge
 
-Before the redesign, SSA.gov was:
+Before the redesign, the SSA.gov experience was shaped more by program structures than by how people actually searched, navigated, or completed tasks online. Our early research surfaced a consistent pattern:
 
-- **Huge and fragmented** – more than 78,000 pages, many redundant or outdated  
-- **Hard to navigate** – top tasks were buried under program-centric navigation  
-- **Text-heavy and confusing** – dense paragraphs, inconsistent content patterns  
-- **Inaccessible on mobile** – layouts were not optimized for small screens or touch  
-- **Inconsistent in Spanish** – translations didn’t always match English content or structure  
-- **Underperforming in satisfaction** – CSAT around **47.7**, with users frequently reporting frustration and confusion  
+> **Users weren’t looking for “programs”—they were looking for solutions.**  
+> (“Apply for retirement,” “Get a card,” “Verify my benefits,” “Check a payment.”)
 
-Internally, content ownership was distributed across components, each with their own standards. Externally, the pandemic pushed more people online, exposing the cracks in navigation, content, and workflows.
+### Where the experience broke down
 
-The core challenge: **How do we turn a giant, policy-heavy site into a top-task, digital-first experience that feels clear, trustworthy, and usable—for everyone?**
+Across analytics, Medallia feedback, field office insights, and Spanish-language testing, we saw:
+
+- Dense, outdated content that overwhelmed users before they began  
+- Program pages that buried core tasks beneath layers of definitions  
+- Mobile layouts that made long pages nearly impossible to scan  
+- Inconsistent content patterns across English and Spanish versions  
+- High drop-off on pages that required multi-step understanding  
+- Users defaulting to phone or field office visits even when digital options were available  
+
+### The core challenge
+
+We needed to transform SSA.gov into a **task-centered, mobile-first, research-informed experience** that:
+
+- made high-impact tasks obvious and easy to begin  
+- provided clear, plain language that matched user expectations  
+- ensured Spanish-language structural parity  
+- aligned with accessibility and CX mandates  
+- reduced burden on call centers and field offices  
+- created a system of reusable components to scale change  
+
+This was not a page redesign—it was a structural and cultural shift.
 
 ---
 
-# 2. Gathering the Right Team - My Role, Collaboration Approach, and Cross-Functional Partnerships
+# 2. Gathering the Right Team  
+### My Role, Collaboration Approach, and Cross-Functional Partnerships
 
-### Role: Content Strategist / UX Lead
+### My Role: Content Strategist & UX Lead
 
-I worked as part of a cross-functional Web Strategy team alongside USDS, GSA, developers, analysts, and program offices.
+I served as a core strategist on the redesign team, responsible for:
 
-**My responsibilities included:**
+- co-leading **content strategy** for high-traffic tasks (retirement, SSI, disability, Medicare, card services)  
+- building and governing the **SSA Design System** in Figma aligned with USWDS  
+- redesigning **task-focused page templates** and flows  
+- partnering with researchers to analyze Medallia, DAP/GA, and usability testing  
+- overseeing English ↔ Spanish **structural parity and quality**  
+- facilitating alignment across policy, operations, dev, and communications  
+- founding the **Digital Experience Council** for governance and standards  
 
-- Defining and implementing **content strategy** for high-impact sections (retirement, SSI, Medicare, card services, Spanish content)  
-- Building and maintaining a **Figma design system** aligned with USWDS and WCMS templates  
-- Partnering with UX researchers to turn **Medallia + analytics insights** into design and content changes  
-- Designing and validating **page templates, flows, and content patterns**  
-- Supporting **usability testing** (English and Spanish), including eye-tracking and moderated sessions  
-- Co-founding the **Digital Experience Council** to align components on design, content, and metrics  
-- Helping set success metrics for key tasks (CSAT, adoption, task completion) and tracking outcomes  
+### The team behind the work
 
-### Key collaborators
+This was a deeply cross-functional initiative involving:
 
 - UX designers and researchers  
-- Developers and WCMS engineers  
-- USDS and GSA partners  
-- Policy and program SMEs  
-- Spanish-language reviewers and translators  
-- Analytics and CX teams working with Medallia and GA/DAP  
+- Web and WCMS developers  
+- USDS and GSA design partners  
+- Program and policy SMEs  
+- Accessibility specialists  
+- Spanish-language reviewers  
+- Data and analytics teams  
+- OCOMM and executive-level stakeholders  
 
-This was a truly enterprise-scale effort that required design, policy, operations, and technology to move in the same direction.
+### Collaboration strategy
+
+To keep alignment across such a large and distributed environment, I:
+
+- facilitated weekly working sessions with components and SMEs  
+- led design system governance reviews  
+- maintained Confluence documentation for patterns, taxonomies, and templates  
+- collaborated with devs to ensure design intent was preserved  
+- supported proposal writing for the Technology Modernization Fund and internal modernization efforts  
+- partnered with researchers on Spanish-language testing and eye-tracking reviews  
+
+We worked in Agile cycles, delivering improvements in measurable increments rather than waiting for a “big bang” relaunch.
 
 ---
 
-# 3. Navigating the Design Journey - End-to-End UX Process: Discovery, IA, Content Strategy, Prototyping, and Testing
+# 3. Navigating the Design Journey  
+### End-to-End UX Process: Discovery, IA, Content Strategy, Prototyping, and Testing
 
 ---
 
 ## 3a. Discovery & Research
 
-We began by grounding decisions in both **quantitative and qualitative data**.
+Our North Star was evidence. We combined:
 
-### Quantitative inputs
+### Quantitative insights
 
-- **Medallia CSAT and verbatims** – where users struggled and what they said in their own words  
-- **Google Analytics & DAP** – most visited pages, top paths, drop-offs, device mix  
-- **Internal search logs** – what people were trying (and failing) to find  
-- **Channel metrics** – how often users fell back to phone or office visits for tasks that could be digital  
+- Medallia CSAT scores and user verbatims  
+- High-level DAP/Google Analytics patterns  
+- Search logs showing user intent  
+- Device breakdowns revealing extremely high mobile usage  
+- Pathing and drop-offs across top-task pages  
 
-![Quantitative Research Example]({{ site.baseurl }}/assets/images/ssa-redesign/quant_research.png)  
-*Figure: Illustrative examples of quantitative data views (CSAT trends, funnel drop-off, search term volume).*
+![Quantitative Research Example]({{ site.baseurl }}/assets/images/ssa-redesign/quant_research.png)
+*Figure: Examples of quantitative inputs used to identify top tasks and pain points (illustrative only).*
 
-### Qualitative inputs
+### Qualitative insights
 
-- Interviews and focus groups with beneficiaries and caregivers  
-- Field office feedback on common pain points and misdirected visits  
-- Spanish-language usability studies  
-- Accessibility walkthroughs and screen reader reviews  
-- Heuristic evaluations of high-traffic pages  
+- Moderated usability testing across both English and Spanish  
+- Accessibility walkthroughs and screen reader testing  
+- Field office interviews revealing common misconceptions  
+- SME feedback identifying program complexities  
+- Heuristic evaluations of page patterns  
 
-### Key insights
+### Key findings
 
-- Users didn’t think in terms of “programs”—they thought in **tasks** (“Apply for retirement”, “Get a card”, “Prove my income”).  
-- Dense content and nested links created **“wall-of-text”** experiences that caused abandonment.  
-- Mobile users struggled with long pages and tiny tap targets.  
-- Spanish users needed **structural parity**, not just translated words.  
-- A small set of top pages drove the vast majority of traffic and frustration.
+- Users consistently looked for **actions**, not program names.  
+- Dense walls of text led to high abandonment and confusion.  
+- Spanish users often lacked access to structured parity or plain-language equivalents.  
+- Mobile users struggled with long scrolls, unclear CTAs, and low scannability.  
+- There was massive duplication—making navigation unpredictable and inconsistent.  
 
-These insights became the foundation of our top-task redesign.
-
----
-
-## 3b. Definition & Alignment
-
-To move beyond patching pages, we framed a **top-task, digital-first strategy**.
-
-### Top-task model
-
-We identified that:
-
-- The **top ~20 pages** accounted for **~90% of all traffic**  
-- A few key tasks—apply for benefits, get a card, get a proof letter, check a payment—drove most interactions  
-
-We re-centered the redesign around these tasks, making them the primary entry points and the backbone of IA and navigation.
-
-### Success criteria
-
-We defined clear success measures:
-
-- Increase CSAT for prioritized flows  
-- Improve findability and task completion  
-- Increase digital self-service (online vs in-office/phone)  
-- Provide consistent, accessible experiences across devices and languages  
-
-### Cross-functional alignment
-
-We used the **Digital Experience Council** and recurring working sessions to:
-
-- align on navigation, templates, and naming  
-- create shared content and design standards  
-- coordinate phased rollouts and measurement plans  
-
-![High-level IA Consolidation Map – Four Top Tasks]({{ site.baseurl }}/assets/images/ssa-redesign/ia_consolidation_map_4tasks.png)  
-*Figure: Simplified IA consolidation view showing four major top-task pathways flowing from the home page into streamlined “Apply” experiences (illustrative only).*
+These findings led us to a unified, top-task IA strategy.
 
 ---
 
-## 3c. Design & Prototyping (Figma & Design System)
+## 3b. Top-Task IA & Content Strategy
 
-With strategy and IA aligned, we moved into **design and prototyping**.
+We built a new IA that centered on the most common user needs, which accounted for the majority of traffic:
 
-### Design system and templates
+- Apply for benefits (retirement, disability, SSI, Medicare)  
+- Replace/get a Social Security card  
+- Get a proof/verification letter  
+- Check payment status  
+- Understand eligibility  
 
-I helped build and maintain a **Figma-based design system** that:
+![IA Consolidation Map]({{ site.baseurl }}/assets/images/ssa-redesign/ia_consolidation_map_4tasks.png)
+*Figure: High-level IA consolidation showing streamlined top-task pathways (illustrative only).*
 
-- aligned with USWDS components but adapted to SSA’s needs  
-- defined **page templates** for landing pages, task flows, and informational content  
-- standardized typography, spacing, color, and interaction patterns  
-- included reusable **content patterns** (intros, step lists, FAQs, eligibility blocks, alerts)  
+### Content strategy pillars
 
-### Key design moves
+- **Plain language** at a 4th–6th grade reading level  
+- **Task-first intros** that answered “What do I need to do?” immediately  
+- **Step-by-step structures** to reduce cognitive load  
+- **Reorganized eligibility sections**  
+- **Shared content patterns** for consistency  
+- **Spanish-language parity** baked in from the start  
 
-- Replacing program-centric navigation with **task-centric landing pages**  
-- Using **plain-language headings and intros** shared across English and Spanish  
-- Applying **one primary CTA per page** and clear “next step” guidance  
-- Prioritizing mobile layouts and readability (chunking, bullets, collapsible sections)  
-- Designing new **workflow-like experiences** (e.g., eligibility tools, guided paths)
-
-![Figma Wireframe Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/figma-wireframes-placeholder.png)  
-*Figure: Mid-fidelity wireframes illustrating top-task landing page structure (illustrative only).*
-
-![Design System Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/design-system-placeholder.png)  
-*Figure: Sample of design system components and content patterns managed in Figma (illustrative only).*
+This set the foundation for the design system.
 
 ---
 
-# 4. Reaching the Breakthrough Moments - Key Insights, Usability Findings, Decisions, and Iterations
+## 3c. Design System & Prototyping
+
+As part of the redesign, I helped build and maintain the **SSA Design System** in Figma:
+
+- Components aligned with USWDS  
+- Templates for landing pages, task pages, workflows, and informational content  
+- Shared typography, spacing, and interaction standards  
+- Reusable content structures (FAQs, steps, eligibility blocks, alerts)  
+
+![Wireframes Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/Wireframs%20for%20the%20new%20landing%20page.png)
+*Figure: Wireframes for redesigned top-task landing page (illustrative only).*
+
+### Prototyping focus
+
+- Mobile-first layouts  
+- Clear CTA hierarchy  
+- Structured content blocks  
+- Spanish + English design parity  
+- Progressive disclosure for complex details  
 
 ---
 
-## 4a. Testing & Iteration
+## 3d. Testing & Iteration
 
-We treated each release as an opportunity to learn and refine.
+We conducted:
 
-### Testing activities
+- Moderated usability testing  
+- Comprehension checks for plain language  
+- A/B comparisons on headings, CTA labels, alert styles  
+- Spanish-language testing  
+- Accessibility review with screen readers and keyboard navigation  
 
-- Moderated usability testing for English and Spanish content  
-- Content comprehension and plain-language checks (targeting ~4th-grade reading level)  
-- A/B comparisons of layouts, labels, and CTA language  
-- Accessibility testing, including screen readers and keyboard navigation  
-- Post-launch monitoring via Medallia, GA, and internal feedback channels  
+![Usability Testing Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/Website%20usability%20testing.png)
+*Figure: Examples from usability testing activities (illustrative only).*
 
-### What we changed based on findings
+### Iterative improvements included:
 
-- Simplified legal and policy text into clearer, shorter statements  
-- Restructured pages to put **top tasks and key actions above the fold**  
-- Reworded CTAs (e.g., “Start application” instead of “Learn more”)  
-- Added supporting content for common “pause points” (e.g., what counts as an “original document”)  
-- Refined Spanish information architecture to mirror English more closely  
-
-![Before After Placeholder]({{ site.baseurl }}/assets/images/ssa-redesign/before-after-placeholder.png)  
-*Figure: Example of layout and content simplification after usability and comprehension testing (illustrative only).*
-
-This iterative loop was critical to moving the CSAT needle and making sure improvements were actually felt by users.
+- Better chunking of large content blocks  
+- Updated CTAs to more actionable phrasing  
+- Rewritten long-form paragraphs  
+- Standardized Spanish-language structures  
+- Improved mobile tap targets and spacing  
 
 ---
 
-## 4b. Agile Delivery & Cross-Functional Collaboration
+# 4. Reaching the Breakthrough Moments  
+### Key Insights, Usability Findings, Decisions, and Iterations
 
-We delivered the redesign in **phased, Agile increments**, rather than a one-time “big bang.”
+### Breakthrough #1: Users wanted tasks, not programs  
+Switching from program-focused pages to task-focused landing pages significantly improved findability and comprehension.
 
-I regularly participated in:
+### Breakthrough #2: Spanish parity required structural redesign  
+Spanish content outperformed expectations, regularly scoring **85%+ CSAT**, after introducing structural parity and clearer translation workflows.
 
-- sprint planning and backlog refinement  
-- daily standups with design, dev, and content  
-- sprint reviews and demos  
-- content freeze and launch readiness checks  
+### Breakthrough #3: Plain language was transformative  
+Simplifying long, policy-heavy text into short, scannable statements directly correlated with higher task completion rates.
 
-My role included:
+### Breakthrough #4: Consistent design patterns mattered  
+The design system reduced fragmentation, guided new content creation, and enabled faster iteration across teams.
 
-- validating that implemented pages matched design intent  
-- adjusting content to reflect policy or stakeholder feedback  
-- documenting patterns and lessons learned in Confluence  
-- coordinating with analytics to track post-launch performance  
-
-This approach helped us reduce risk, gather evidence, and continuously improve.
+### Breakthrough #5: User confidence increased dramatically  
+CSAT rising from **47.7 → 70.0** aligned directly with a redesigned experience that felt simpler, more predictable, and more trustworthy.
 
 ---
 
-# 5. Ripples Across the Organization - Outcomes, Impact Metrics, and Alignment to Agency Priorities  
+# 5. Ripples Across the Organization  
+### Outcomes, Impact Metrics, and Alignment to Agency Priorities
 
-The redesign didn’t just improve individual pages—it changed how SSA planned, delivered, and measured digital services.
+The redesign’s impact rippled far beyond the pages themselves.
 
 ## Measurable Outcomes
 
-### Customer satisfaction and trust
+- **CSAT: 47.7 → 70.0** (+22.3)  
+- Spanish-language pages: **85%+ CSAT**  
+- SSI page performance: **76.5 CSAT**  
+- Online Benefit Verification requests: **+550% increase**  
+- my Social Security digital transactions: **+25% increase**  
+- Reduced misdirected office visits and call-center burden  
 
-- Overall CSAT improved from **47.7 → 70.0** after key redesign milestones.  
-- The SSI section achieved **76.5 CSAT**, among the highest on the site.  
-- Spanish content on redesigned sections reached **85%+ CSAT**, confirming the value of structural parity and plain language.
+![Ripple Map]({{ site.baseurl }}/assets/images/ssa-redesign/ripple_map.png)
+*Figure: Ripple effects across SSA’s ecosystem (illustrative only).*
 
-### Digital adoption and self-service
+## Organizational Alignment
 
-- **25% increase** in my Social Security online transactions.  
-- **550% increase** in online Benefit Verification Letters, reducing in-office and phone demand for common proof-of-benefits tasks.  
-- Improved navigation and clearer calls to action nudged more users toward digital self-service.
+- Supported the agency’s **Digital-First Strategy**  
+- Advanced **Executive Orders on Customer Experience**  
+- Strengthened compliance with **plain language, accessibility, and digital equity**  
+- Enabled scalable modernization efforts across components  
 
-### Operational efficiencies
+## Recognition & Validation
 
-- Fewer misdirected calls and office visits for tasks that were now clearly explained online.  
-- Field and call-center staff could reference **consistent, task-focused content**, reducing time spent correcting outdated or confusing instructions.  
-- Components began reusing shared patterns instead of reinventing pages from scratch.
+This work contributed to:
 
----
-
-## Organizational Impact and Alignment
-
-### Supporting SSA’s digital-first strategy
-
-The redesign:
-
-- focused on **top tasks** that aligned directly with high-impact services  
-- made online options clearer and easier to complete  
-- supported SSA’s goals of shifting more interactions to digital channels  
-
-### Advancing accessibility, language access, and CX mandates
-
-The work directly supported:
-
-- Section 508 and WCAG AA+ accessibility commitments  
-- Plain language goals across English and Spanish content  
-- White House and OMB directives on **customer experience** for high-impact service providers  
-
-### Creating a reusable foundation
-
-The design system, templates, and collaboration patterns we established:
-
-- gave SSA a **repeatable model** for future content and feature work  
-- helped subsequent projects avoid starting from zero  
-- were referenced in later initiatives (e.g., additional top-task flows and content consolidations)
+- **Deputy Commissioner’s Citation (2024)**  
+- **Service to the Citizen Award (2023)**  
+- **ClearMark Award Finalist (2023)**  
+- Multiple performance and time-off awards  
 
 ---
 
-# 6. Reflections and Future Direction - Summary, Lessons Learned, and Opportunities for Continued Improvement
-
-The SSA.gov digital-first redesign reinforced a central lesson: at enterprise scale, **clarity, consistency, and top-task focus are as important as visual polish**.
+# 6. Reflections and Future Direction  
+### Summary, Lessons Learned, and Opportunities for Continued Improvement
 
 ### What I Learned
 
-- **Scale requires systems, not one-off pages.** The design system and shared content patterns were essential to making change sustainable.  
-- **Top-task thinking is a powerful alignment tool.** Focusing on what users actually come to do cut through component boundaries and policy silos.  
-- **Spanish experiences need structural parity, not just translation.** Designing with Spanish in mind from the start led to stronger, more inclusive experiences.
+- System-wide change requires strong governance and shared patterns.  
+- Spanish-language parity must be a first-class design requirement.  
+- Task-centered thinking can cut through long-standing organizational silos.  
+- Data-driven iteration is essential—analytics and plain language go hand in hand.
+
+### Opportunities Ahead
+
+- Extend redesign principles deeper into secure/signed-in experiences.  
+- Improve omnichannel consistency across digital, phone, and office touchpoints.  
+- Introduce personalization for signed-in users where appropriate.  
+- Expand targeted research for people with additional access needs.  
+- Continue consolidating legacy content into reusable, predictable patterns.
+
+### Final Reflection
+
+The SSA.gov Mobile-First Redesign proves that a complex federal website can become clearer, more human, and more efficient through thoughtful design. It laid a foundation for long-term modernization—one that centers user needs, elevates accessibility, and supports millions of people in moments that matter.
+
+---
+
+[← Back to Design Stories]({{ site.baseurl }}/design-stories/)
