@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 title: SSA.gov Digital-First Redesign
 permalink: /design-stories/ssa-digital-first-redesign/
 ---
