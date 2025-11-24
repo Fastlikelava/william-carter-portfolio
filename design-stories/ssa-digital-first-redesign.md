@@ -23,11 +23,15 @@ SSA.gov serves more than **180 million visitors a year**, making it one of the m
 - uneven Spanish parity across high-impact content  
 - growing demand for online services after the pandemic closed field offices  
 
-The Digital-First Redesign—part of SSA’s transition from a field-office-first service model to an online-first, scalable digital ecosystem—aimed to modernize high-impact user journeys across the site by streamlining top tasks, improving accessibility, strengthening Spanish-language equity, and establishing a cohesive enterprise design system rooted in usability and evidence.
+The goal of the Digital-First Redesign was to transition SSA from a field-office-first service model to an online-first, scalable digital ecosystem. We aimed to modernize high-impact user journeys across the site by:
+- streamlining top tasks,
+- improving accessibility,
+- strengthening Spanish-language equity, and
+- establishing a cohesive enterprise design system rooted in usability and evidence.
 
 What follows is the story of how we re-centered SSA.gov around user needs and modern web practices—ultimately increasing CSAT to **70.0**, improving online service adoption, and laying the foundation for sustainable enterprise-wide digital governance.
 
-To show how this came together end-to-end, the following six sections walk through the core challenge, the team, the UX process, the key insights that shaped the redesign, the organization-wide impact, and what comes next.
+To show how this came together end-to-end, the following six sections walk through the core challenge, the team, the UX process, the key insights that shaped the redesign, the organization-wide impact, and the plan for what comes next.
 
 ---
 
@@ -104,6 +108,9 @@ To keep alignment across such a large and distributed environment, I:
 
 We worked in Agile cycles, delivering improvements in measurable increments rather than waiting for a “big bang” relaunch.
 
+![Figure 2 – Image detailing the iterative evolution of SSA's home page.]({{ site.baseurl }}/assets/images/ssa-redesign/Evolution of the home page.png)
+*Figure 2: Rather than a one-time major overhaul, we adopted Agile methodology to implement incremental enhancements.*
+
 ---
 
 # 3. Navigating the Design Journey - End-to-End UX Process: Discovery, IA, Content Strategy, Prototyping, and Testing
@@ -136,27 +143,27 @@ Our North Star was evidence. We combined:
 - Dense walls of text led to high abandonment and confusion.  
 - Spanish users often lacked access to structured parity or plain-language equivalents.  
 - Mobile users struggled with long scrolls, unclear CTAs, and low scannability.  
-- There was massive duplication—making navigation unpredictable and inconsistent.  
+- There was massive duplication of instuctions making navigation unpredictable and inconsistent.  
 
 These findings, shown in Figure 3a, led us to a unified, top-task IA strategy.
 
-![Figure 3a – Usability testing and observations]({{ site.baseurl }}/assets/images/ssa-redesign/Website-usability-testing.png)
+![Figure 3a – Usability testing and observations examples]({{ site.baseurl }}/assets/images/ssa-redesign/Website-usability-testing.png)
 *Figure 3a: Examples from usability testing and observation sessions that informed top-task prioritization and content restructuring.*
 
 ---
 
 ## 3b. Top-Task IA & Content Strategy
 
-We built a new IA that centered on the most common user needs, which accounted for the majority of traffic:
+We built a new IA (Figure 3b) that centered on the most common user needs, which accounted for the majority of traffic:
 
 - Apply for benefits (retirement, disability, SSI, Medicare)  
-- Replace/get a Social Security card  
-- Get a proof/verification letter  
+- Get/replace a Social Security card  
+- Request a letter showing proof/verification of benefits  
 - Check payment status  
 - Understand eligibility  
 
-![IA Consolidation Map]({{ site.baseurl }}/assets/images/ssa-redesign/ia_consolidation_map_4tasks.png)
-*Figure: High-level IA consolidation showing streamlined top-task pathways (illustrative only).*
+![High-level IA Consolidation Map]({{ site.baseurl }}/assets/images/ssa-redesign/ia_consolidation_map_4tasks.png)
+*Figure 3b: Example of high-level IA consolidation showing streamlined top-task pathways.*
 
 ### Content strategy pillars
 
@@ -245,8 +252,8 @@ The redesign’s impact rippled far beyond the pages themselves.
 - my Social Security digital transactions: **+25% increase**  
 - Reduced misdirected office visits and call-center burden  
 
-![Three images showing the evolution of the redesigned webpage]({{ site.baseurl }}/assets/images/ssa-redesign/redesigned-webpage.png)
-*Figure: Ripple effects across SSA’s ecosystem (illustrative only).*
+![Image detailing design launch improvements on web and mobile]({{ site.baseurl }}/assets/images/ssa-redesign/redesigned-webpage.png)
+*Figure 5: Web and mobile wesite design.*
 
 ## Organizational Alignment
 
