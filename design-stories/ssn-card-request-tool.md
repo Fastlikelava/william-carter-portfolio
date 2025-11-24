@@ -5,7 +5,7 @@ permalink: /design-stories/ssn-card-request-tool/
 classes: large-text
 ---
 
-[← Back to Design Stories]({{ site.baseurl }}/design-stories/)
+[← Design Stories]({{ site.baseurl }}/design-stories/)
 
 # SSN Card Request Tool  
 ### Workflow Design • Eligibility Logic • UX Writing • Mobile-First UI • End-to-End HCD
@@ -415,4 +415,4 @@ This project highlighted how impactful workflow design can be when grounded in r
 
 ---
 
-[← Back to Design Stories]({{ site.baseurl }}/design-stories/)
+[← Design Stories]({{ site.baseurl }}/design-stories/)
