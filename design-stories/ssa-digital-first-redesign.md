@@ -4,7 +4,7 @@ title: SSA.gov Digital-First Redesign
 permalink: /design-stories/ssa-digital-first-redesign/
 ---
 
-[← Back to Design Stories]({{ site.baseurl }}/design-stories/)
+[← Design Stories]({{ site.baseurl }}/design-stories/)
 
 # SSA.gov Mobile-First Redesign  
 ### Enterprise Web • Human-Centered Design • Task-Centered UX • Accessibility & Spanish-Language Equity
@@ -301,4 +301,4 @@ The SSA.gov Mobile-First Redesign proves that a complex federal website can beco
 
 ---
 
-[← Back to Design Stories]({{ site.baseurl }}/design-stories/)
+[← Design Stories]({{ site.baseurl }}/design-stories/)
