@@ -109,6 +109,7 @@ To keep alignment across such a large and distributed environment, I:
 We worked in Agile cycles, delivering improvements in measurable increments rather than waiting for a “big bang” relaunch.
 
 ![Figure 2 – Image detailing the iterative evolution of SSA's home page.]({{ site.baseurl }}/assets/images/ssa-redesign/Evolution of the home page.png)
+
 *Figure 2: Rather than a one-time major overhaul, we adopted Agile methodology to implement incremental enhancements.*
 
 ---
@@ -148,6 +149,7 @@ Our North Star was evidence. We combined:
 These findings, shown in Figure 3a, led us to a unified, top-task IA strategy.
 
 ![Figure 3a – Usability testing and observations examples]({{ site.baseurl }}/assets/images/ssa-redesign/Website-usability-testing.png)
+
 *Figure 3a: Examples from usability testing and observation sessions that informed top-task prioritization and content restructuring.*
 
 ---
@@ -163,6 +165,7 @@ We built a new IA (Figure 3b) that centered on the most common user needs, which
 - Understand eligibility  
 
 ![High-level IA Consolidation Map]({{ site.baseurl }}/assets/images/ssa-redesign/ia_consolidation_map_4tasks.png)
+
 *Figure 3b: Example of high-level IA consolidation showing streamlined top-task pathways.*
 
 ### Content strategy pillars
@@ -188,7 +191,8 @@ As part of the redesign, I helped build and maintain the **SSA Design System** i
 - Reusable content structures (FAQs, steps, eligibility blocks, alerts)  
 
 ![Multiple images that show unfinished wireframs]({{ site.baseurl }}/assets/images/ssa-redesign/Wireframs-for-the-new-landing-page.png)
-*Figure: Wireframes for redesigned top-task landing page.*
+
+*Figure 3c: Wireframes for redesigned top-task landing page.*
 
 ### Prototyping focus
 
@@ -253,6 +257,7 @@ The redesign’s impact rippled far beyond the pages themselves.
 - Reduced misdirected office visits and call-center burden  
 
 ![Image detailing design launch improvements on web and mobile]({{ site.baseurl }}/assets/images/ssa-redesign/redesigned-webpage.png)
+
 *Figure 5: Web and mobile wesite design.*
 
 ## Organizational Alignment
