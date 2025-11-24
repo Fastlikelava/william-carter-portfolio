@@ -1,1 +1,17 @@
+<footer class="page__footer">
+  <div class="page__footer-follow">
+    <ul class="social-icons">
+      {% if site.atom_feed.path %}
+      <li>
+        <a href="{{ site.atom_feed.path | relative_url }}" title="Subscribe">
+          <i class="fas fa-rss-square" aria-hidden="true"></i> Subscribe
+        </a>
+      </li>
+      {% endif %}
+    </ul>
+  </div>
 
+  <div class="page__footer-copyright">
+    &copy; {{ site.time | date: "%Y" }} {{ site.name | default: site.title }}.
+  </div>
+</footer>
