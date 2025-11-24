@@ -17,7 +17,7 @@ caption: "William E. J. Carter — UX & Content Strategy"
 excerpt: "UX and content strategist with 17+ years improving public services through human-centered design, data-informed decisions, and cross-team collaboration."
 
 feature_row:
-  - image_path: /assets/images/dec/dec-thumbnail.png
+  - image_path: /assets/images/thumbnails/dec-thumbnail.png
     alt: "Digital Experience Council thumbnail"
     title: "Digital Experience Council"
     excerpt: "Building the governance, standards, and cross-team alignment needed to guide SSA’s digital transformation at scale."
