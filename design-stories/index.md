@@ -25,8 +25,6 @@ An online tool that guides people through the process of getting or replacing a 
 
 ## [DTPS Workload Dashboard](/design-stories/dtps-workload-dashboard/)
 
-> *Coming soon.*
-
 **Institutional Services • Internal Tools • Data Visualization**
 
-Designing a centralized dashboard to track 44+ workloads across Program Experts and analysts, improving visibility, prioritization, and throughput for branch operations.
+Redesigning DTPS’s workload system to bring clarity to complex internal tasks. This dashboard consolidates dozens of workloads into a single source of truth, improving transparency, prioritization, and operational decision-making across the branch.
