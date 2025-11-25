@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Simplifying DTPS: Designing DTPS’s Internal Experience Platform
+title: Designing DTPS’s Internal Experience Platform
 permalink: /design-stories/dtps-workload-dashboard/
 ---
 
