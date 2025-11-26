@@ -47,6 +47,8 @@ This required:
 In short:  
 **We needed to transform a loosely connected set of tasks into a cohesive product ecosystem.**
 
+![Various reports, with different degrees of fidelity, all lacking consistency.](/assets/images/dtps/as-is-reporting.png){: .diagram }
+*Figure 1: Varied and inconsistent reports make it harder to process information efficiently.*
 
 ---
 
@@ -84,7 +86,7 @@ This model mirrors the product team structures I worked with during the SSA.gov 
 
 ## 3. Navigating the Design Journey — End-to-End UX Process  
 
-### 3.a Research & Insights  
+### 3a. Research & Insights  
 
 I began by conducting **qualitative discovery**, including interviews, shadowing, and artifact reviews.
 
@@ -92,13 +94,15 @@ Key insights emerged:
 
 - Workloads lacked standardized entry and exit points  
 - MPAs interpreted responsibilities differently  
-- Leadership lacked a single source of truth  
+- Leadership lacked a single source of truth (See Figure 3a) 
 - Prior attempts at documentation were inconsistent or siloed  
 - Cross-agency tasks (especially involving OPM) suffered from fragmented communication  
 
 These findings made the problem clear:  
 **Without shared patterns, everything becomes custom work.**
 
+![A flow chart showing the pre-dashboard approach to task reporting.](/assets/images/dtps/workflow-map.png){: .diagram }
+*Figure 3a: A flow showing the convolution of requesting task reports before the dashboard was established.*
 
 ---
 
@@ -140,6 +144,8 @@ To create real visibility, I designed the **Workload Intelligence Dashboard**, a
 - identifies bottlenecks before they become problems  
 - lays the groundwork for future automation  
 
+![Dashboard Prototype Placeholder](/assets/images/dtps/dashboard-prototype.png){: .diagram }
+*Figure 3c: Early MVP prototype showing 2 of the workloads available in the dashboard.*
 
 ---
 
