@@ -6,6 +6,8 @@ permalink: /design-stories/dtps-workload-dashboard/
 
 [← Design Stories]({{ site.baseurl }}/design-stories/)
 
+#DTPS Workload Tracker MVP
+### Institutional Services • Internal Tools • Data Visualization
 
 # Design Story Overview  
 
@@ -19,7 +21,7 @@ My goal was to bring **human-centered design, product thinking, and systems clar
 
 The first major artifact of this platform is the **DTPS Workload Tracker MVP**, a tool that brings visibility, consistency, and shared understanding across the branch.
 
-Throughout this work, I applied the same principles I used in my prior SSA-wide transformation efforts — including the redesign of SSA.gov, the creation of agency-wide design systems, and cross-component governance. This approach also aligns closely with the expectations of a **Product Design Lead**, including setting vision, defining systems, leading ambiguity, and delivering usable tools that scale.
+Throughout this work, I am applying the same principles I used in my prior SSA-wide transformation efforts — including the redesign of SSA.gov, the creation of agency-wide design systems, and cross-component governance. This approach also aligns closely with the expectations of a **Product Design Lead**, including setting vision, defining systems, leading through ambiguity, and delivering usable tools that scale.
 
 ---
 
@@ -48,6 +50,7 @@ In short:
 **We needed to transform a loosely connected set of tasks into a cohesive product ecosystem.**
 
 ![Various reports, with different degrees of fidelity, all lacking consistency.](/assets/images/dtps/as-is-reporting.png){: .diagram }
+
 *Figure 1: Varied and inconsistent reports make it harder to process information efficiently.*
 
 ---
@@ -102,11 +105,12 @@ These findings made the problem clear:
 **Without shared patterns, everything becomes custom work.**
 
 ![A flow chart showing the pre-dashboard approach to task reporting.](/assets/images/dtps/workflow-map.png){: .diagram }
+
 *Figure 3a: A flow showing the convolution of requesting task reports before the dashboard was established.*
 
 ---
 
-### 3.b Definition & Alignment  
+### 3b. Definition & Alignment  
 
 With insights documented, I led DTPS through structured alignment sessions to define:
 
@@ -121,7 +125,7 @@ This culminated in a guiding framework used to evaluate all processes moving for
 
 ---
 
-### 3.c Design & Iteration  
+### 3c. Design & Iteration  
 
 Once the foundational architecture was defined, I moved into design mode.
 
@@ -145,11 +149,12 @@ To create real visibility, I designed the **Workload Intelligence Dashboard**, a
 - lays the groundwork for future automation  
 
 ![Dashboard Prototype Placeholder](/assets/images/dtps/dashboard-prototype.png){: .diagram }
+
 *Figure 3c: Early MVP prototype showing 2 of the workloads available in the dashboard.*
 
 ---
 
-### 3.d Testing & Validation  
+### 3d. Testing & Validation  
 
 I validated the design through:
 - Hands-on walkthroughs with MPAs  
@@ -180,7 +185,7 @@ The dashboard became the centerpiece of the platform because users needed real-t
 The standardized routing slip:
 - reduced rework  
 - aligned multiple teams  
-- improved SSA↔OPM collaboration  
+- improved collaboration between SSA and OPM  
 - reinforced the need for structured communication patterns  
 
 ### **4. "Just Enough Structure" Was Key**  
@@ -201,6 +206,7 @@ Though early-phase, this work has already had meaningful impact:
 - A dashboard that gives leadership meaningful visibility  
 
 ### **User Outcomes**
+- Leadership has a centralized on-demand access to reports
 - MPAs understand exactly how to execute and document work  
 - PEs can quickly review and validate tasks  
 - New staff have a clearer onboarding experience  
