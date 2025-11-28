@@ -46,7 +46,7 @@ The following sections offer a structured walkthrough of how we translated a den
 
 The original experience had several challenges, users often dealt with:
 
-### a. Highly complex policy
+### 1a. Highly complex policy
 Eligibility rules vary depending on:
 
 - citizenship  
@@ -56,7 +56,7 @@ Eligibility rules vary depending on:
 - presence of original or certified documents  
 - location (inside the U.S. vs abroad)  
 
-### b. Fragmented guidance creating confusion and stallled applications
+### 1b. Fragmented guidance creating confusion and stallled applications
 SSA's documentation rules were scattered across inconsistent sources, including: 
 
 - help pages created at different times with uneven updates, leaving users unsure which instructions to trust  
@@ -66,7 +66,7 @@ SSA's documentation rules were scattered across inconsistent sources, including:
 
   This “before” experience (see Figure 1) tried to answer everyone’s question of **“What documents do I need?”**—but failed to answer what **I**, the individual user, needed based on **my** situation. With generic, conflicting instructions and no clear call to action, users were left uncertain and overwhelmed, a major driver of application errors and repeat office visits.
 
-### c. Broken user journeys that created avoidable strain on staff
+### 1c. Broken user journeys that created avoidable strain on staff
 
 Users frequently arrived at field offices:
 
@@ -75,7 +75,7 @@ Users frequently arrived at field offices:
 - confused about eligibility  
 - misdirected for tasks they *could* do online  
 
-### d. High-pressure moments that triggered a stress cycle for users and staff
+### 1d. High-pressure moments that triggered a stress cycle for users and staff
 
 Most users approached this task with real urgency. They needed a Social Security card so they could:
 
