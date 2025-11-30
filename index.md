@@ -5,7 +5,7 @@ show_excerpts: false
 paginate: false
 entries_layout: grid
 
-title: "I design systems and stories that help people thrive."
+title: "I help people understand, access, and trust the services they rely on"
 header:
   overlay_color: "#0f172a"
   overlay_filter: 0.45
@@ -14,7 +14,7 @@ header:
   cta_url: "/design-stories/"
 
 caption: "William E. J. Carter — UX & Content Strategy"
-excerpt: "UX and content strategist with 17+ years improving public services through human-centered design, data-informed decisions, and cross-team collaboration."
+excerpt: "— by designing the systems, language, and experiences that make complexity feel simple. With 6+ years leading UX and content strategy for SSA.gov and 17+ years improving public services, I bring a human-centered, systems-thinking approach to product design. I lead teams through ambiguity, shape early product direction, and build design systems and governance that help organizations deliver consistent, accessible, and meaningful experiences at scale."
 
 feature_row:
   - image_path: /assets/images/thumbnails/dec-thumbnail.png
