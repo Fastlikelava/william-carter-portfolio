@@ -108,7 +108,7 @@ To keep alignment across such a large and distributed environment, I:
 
 We worked in Agile cycles, delivering improvements in measurable increments rather than waiting for a “big bang” relaunch.
 
-![Figure 2 – Image detailing the iterative evolution of SSA's home page.]({{ site.baseurl }}/assets/images/ssa-redesign/Evolution of the home page.png)
+[![Figure 2 – Image detailing the iterative evolution of SSA's home page.](/assets/images/ssa-redesign/Evolution of the home page.png){: .diagram }]( /assets/images/ssa-redesign/Evolution of the home page.png ){: .image-popup }
 
 *Figure 2: Rather than a one-time major overhaul, we adopted Agile methodology to implement incremental enhancements.*
 
@@ -148,7 +148,7 @@ Our North Star was evidence. We combined:
 
 These findings, shown in Figure 3a, led us to a unified, top-task IA strategy.
 
-![Figure 3a – Usability testing and observations examples]({{ site.baseurl }}/assets/images/ssa-redesign/Website-usability-testing.png)
+[![Figure 3a – Usability testing and observations examples](/assets/images/ssa-redesign/Website-usability-testing.png){: .diagram }]( /assets/images/ssa-redesign/Website-usability-testing.png ){: .image-popup }
 
 *Figure 3a: Examples from usability testing and observation sessions that informed top-task prioritization and content restructuring.*
 
@@ -190,7 +190,7 @@ As part of the redesign, I helped build and maintain the **SSA Design System** i
 - Shared typography, spacing, and interaction standards  
 - Reusable content structures (FAQs, steps, eligibility blocks, alerts)  
 
-![Multiple images that show unfinished wireframs]({{ site.baseurl }}/assets/images/ssa-redesign/Wireframs-for-the-new-landing-page.png)
+[![Multiple images that show unfinished wireframs](/assets/images/ssa-redesign/Wireframs-for-the-new-landing-page.png){: .diagram }]( /assets/images/ssa-redesign/Wireframs-for-the-new-landing-page.png ){: .image-popup }
 
 *Figure 3c: Wireframes for redesigned top-task landing page.*
 
@@ -256,7 +256,7 @@ The redesign’s impact rippled far beyond the pages themselves.
 - my Social Security digital transactions: **+25% increase**  
 - Reduced misdirected office visits and call-center burden  
 
-![Image detailing design launch improvements on web and mobile]({{ site.baseurl }}/assets/images/ssa-redesign/redesigned-webpage.png)
+[![Image detailing design launch improvements on web and mobile](/assets/images/ssa-redesign/redesigned-webpage.png){: .diagram }]( /assets/images/ssa-redesign/ia_consolidation_map_4tasks.png ){: .image-popup }
 
 *Figure 5: Web and mobile wesite design.*
 
