@@ -164,7 +164,7 @@ We built a new IA (Figure 3b) that centered on the most common user needs, which
 - Check payment status  
 - Understand eligibility  
 
-![High-level IA Consolidation Map]({{ site.baseurl }}/assets/images/ssa-redesign/ia_consolidation_map_4tasks.png)
+[![High-level IA Consolidation Map](/assets/images/ssa-redesign/ia_consolidation_map_4tasks.png){: .diagram }]( /assets/images/ssa-redesign/ia_consolidation_map_4tasks.png ){: .image-popup }
 
 *Figure 3b: Example of high-level IA consolidation showing streamlined top-task pathways.*
 
