@@ -256,7 +256,7 @@ The redesign’s impact rippled far beyond the pages themselves.
 - my Social Security digital transactions: **+25% increase**  
 - Reduced misdirected office visits and call-center burden  
 
-[![Image detailing design launch improvements on web and mobile](/assets/images/ssa-redesign/redesigned-webpage.png){: .diagram }]( /assets/images/ssa-redesign/ia_consolidation_map_4tasks.png ){: .image-popup }
+[![Image detailing design launch improvements on web and mobile](/assets/images/ssa-redesign/redesigned-webpage.png){: .diagram }]( /assets/images/ssa-redesign/redesigned-webpage.png ){: .image-popup }
 
 *Figure 5: Web and mobile wesite design.*
 
