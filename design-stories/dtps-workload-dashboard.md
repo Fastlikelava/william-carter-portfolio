@@ -49,7 +49,7 @@ This required:
 In short:  
 **We needed to transform a loosely connected set of tasks into a cohesive product ecosystem.**
 
-![Various reports, with different degrees of fidelity, all lacking consistency.](/assets/images/dtps/as-is-reporting.png){: .diagram }
+[![Various reports, with different degrees of fidelity, all lacking consistency.](/assets/images/dtps/as-is-reporting.png){: .diagram }]( dtps/as-is-reporting.png ){: .image-popup }
 
 *Figure 1: Varied and inconsistent reports make it harder to process information efficiently.*
 
@@ -104,7 +104,7 @@ Key insights emerged:
 These findings made the problem clear:  
 **Without shared patterns, everything becomes custom work.**
 
-![A flow chart showing the pre-dashboard approach to task reporting.](/assets/images/dtps/workflow-map.png){: .diagram }
+[![A flow chart showing the pre-dashboard approach to task reporting.](/assets/images/dtps/workflow-map.png){: .diagram }]( dtps/ workflow-map.png ){: .image-popup }
 
 *Figure 3a: A flow showing the convolution of requesting task reports before the dashboard was established.*
 
@@ -148,7 +148,7 @@ To create real visibility, I designed the **Workload Intelligence Dashboard**, a
 - identifies bottlenecks before they become problems  
 - lays the groundwork for future automation  
 
-![Dashboard Prototype Placeholder](/assets/images/dtps/dashboard-prototype.png){: .diagram }
+[![Dashboard Prototype Placeholder](/assets/images/dtps/dashboard-prototype.png){: .diagram }]( dtps/ dashboard-prototype.png ){: .image-popup }
 
 *Figure 3c: Early MVP prototype showing 2 of the workloads available in the dashboard.*
 
