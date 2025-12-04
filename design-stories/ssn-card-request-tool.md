@@ -96,7 +96,7 @@ We needed an experience that was:
 - accessible  
 
 
-![Stitched set of three screenshots showing the previous SSA site 'required documents' page as it appears on mobile, with dense text and minimal visual hierarchy.](/assets/images/ss5/what-docs-instructions.png){: .diagram } 
+[![Stitched set of three screenshots showing the previous SSA site 'required documents' page as it appears on mobile, with dense text and minimal visual hierarchy.](/assets/images/ss5/what-docs-instructions.png){: .diagram }]( /assets/images/ss5/what-docs-instructions.png ){: .image-popup } 
 
 *Figure 1.: Before, users lacked a single, authoritative way to verify the documents they specifically needed.*
 
@@ -125,7 +125,7 @@ I led or co-led:
 - Field office SMEs  
 - Accessibility and design system contributors  
 
-![Flowchart showing a high-level internal process for Social Security Card applications, indicating that all children must visit an office, and only U.S. citizens who can be verified electronically can file online.](/assets/images/ss5/multi-step-flow.png){: .diagram }
+[![Flowchart showing a high-level internal process for Social Security Card applications, indicating that all children must visit an office, and only U.S. citizens who can be verified electronically can file online.](/assets/images/ss5/multi-step-flow.png){: .diagram }]( /assets/images/ss5/multi-step-flow.png ){: .image-popup }
 
 *Figure 2: High-level visualization of the user's Social Security card application flow.*
 
@@ -290,7 +290,7 @@ Users reported:
 - “feeling less stressed”  
 - “understanding what applies to me”
 
-![Image showing five Pause Point examples for Social Security Card applications: one for users experiencing homelessness, two for users who must visit an office but should start online, one for users who can apply entirely online, and one for citizens living outside the U.S.](/assets/images/ss5/User_centric_instructions.png){: .diagram }
+[![Image showing five Pause Point examples for Social Security Card applications: one for users experiencing homelessness, two for users who must visit an office but should start online, one for users who can apply entirely online, and one for citizens living outside the U.S.](/assets/images/ss5/User_centric_instructions.png){: .diagram }]( /assets/images/ss5/User_centric_instructions.png ){: .image-popup }
 
 *Figure4: Examples of "Pause Points": strategically placed, user-specific prompts that increase the likelihood of resolving tasks during the initial interaction.*
 
